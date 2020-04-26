@@ -18,7 +18,7 @@ Compounds should be save in a csv file, and two columns named 'IDNUMBER' and 'SM
 
 The output is a CSV file with bioactivity predicted by model of each compound. 
 
-# Dependence
+# Dependency
 RDKit (Version 2019.9)
 
 joblib 0.13.2
