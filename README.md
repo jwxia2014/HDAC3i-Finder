@@ -32,8 +32,11 @@ Installation
 Dependency 
 -----------------------------------
 RDKit (Version 2019.9)
+
 joblib 0.13.2
+
 numpy 1.16.5
+
 pandas 0.25.1
 
 References
