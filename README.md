@@ -38,5 +38,5 @@ pandas 0.25.1
 
 References
 -----------------------------------
-Computational tool, Methodology and Datasets:
-1. Li, S., Ding Y., Chen, M., Chen Y., Kirchmair J., Wu, S., Xia, J.*, HDAC3i-Finder: A Machine Learning-based Computational Tool to Screen for HDAC3 Inhibitors. Mol. Inf.,2020, submitted. 
+If you find it useful, please cite: 
+Li, S., Ding Y., Chen, M., Chen Y., Kirchmair J., Wu, S., Xia, J.*, HDAC3i-Finder: A Machine Learning-based Computational Tool to Screen for HDAC3 Inhibitors. Mol. Inf.,2020, submitted. 
