@@ -23,7 +23,7 @@ Implementation
 * Installation
 
 1) Download and install anaconda--python 3.7--windows 64-Bit from https://www.anaconda.com/products/individual
-2) run 'Anaconda Prompt' and run the following commands:
+2) run 'Anaconda Prompt' and run the following commands
   conda create -n HDAC3 python==3.7 (HDAC3 is an environment set by users)
   conda activate HDAC3
   conda install pandas==0.25.1
