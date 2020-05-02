@@ -60,15 +60,15 @@ Usage
 -----------------------------------
 * Single Compound mode
 
-This mode is used for predicting whether a single compound is active for HDAC3 or not.  
-1. click the 'load a model' to load the machine-learning model and paste SMILES of a compound to predict. 
-2. click the 'Classify' button and the activity class of the compound is shown in the textbox along with the probability of the activity class. 
+  This mode is used for predicting whether a single compound is active for HDAC3 or not.  
+  1. click the 'load a model' to load the machine-learning model and paste SMILES of a compound to predict. 
+  2. click the 'Classify' button and the activity class of the compound is shown in the textbox along with the probability of the activity class. 
 
 * A Set of Compounds mode (virtual screening)
 
-This mode is used for virtual screening of a large chemical library.  
-1. click the 'load a model' to load the machine-learning model and provide a csv file with 'IDNUMBER' and 'SMILES' of the compounds to predict. 
-2. click the 'Classify' button and a csv file that contains activity classes with probability values of "being ACITVE" in a descending order returns.  
+  This mode is used for virtual screening of a large chemical library.  
+  1. click the 'load a model' to load the machine-learning model and provide a csv file with 'IDNUMBER' and 'SMILES' of the compounds to predict. 
+  2. click the 'Classify' button and a csv file that contains activity classes with probability values of "being ACITVE" in a descending order returns.  
 
 References
 -----------------------------------
