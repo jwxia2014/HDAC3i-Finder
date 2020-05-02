@@ -22,10 +22,10 @@ Implementation
 
 * Installation
 
-1) Download and install anaconda--python 3.7--windows 64-Bit from https://www.anaconda.com/products/individual
-2) run 'Anaconda Prompt' and run the following commands
-  conda create -n HDAC3 python==3.7 (HDAC3 is an environment set by users)
-  conda activate HDAC3
+1. Download and install anaconda--python 3.7--windows 64-Bit from https://www.anaconda.com/products/individual
+2. run 'Anaconda Prompt' and run the following commands:
+  (1) conda create -n HDAC3 python==3.7 (HDAC3 is an environment set by users)
+  (2) conda activate HDAC3
   conda install pandas==0.25.1
   conda install numpy==1.16.5
   conda install joblib==0.13.2
@@ -37,7 +37,7 @@ Implementation
    $ conda activate HDAC3
    $ pip install D:/HDAC3i-Finder/xgboost-1.0.2-cp37-cp37m-win_amd64.whl
    $ pip list | findstr xgboost   
-   # if 'xgboost 1.0.2' returns, xgboost is installed successfully. 
+   if 'xgboost 1.0.2' returns, xgboost is installed successfully. 
 
   
 Usage
