@@ -2,7 +2,7 @@
 
 Introduction
 -----------------------------------
-HDAC3i-Finder is a python GUI application for classify compounds into HDAC3 inhibitors or non-inhibitors based on a thoroughly validated machine-learning model, i.e. XGBoost algorithm with Morgan2 fingerprints as features. It makes prediction in two modes, "a single compound" and "a set of compounds" (virtual screening) and can run on Windows-based machine and has no dependency.
+HDAC3i-Finder is a python GUI application for classify compounds into HDAC3 inhibitors or non-inhibitors based on a thoroughly validated machine-learning model, i.e. XGBoost algorithm with Morgan2 fingerprints as features. It makes prediction in two modes, "a single compound" and "a set of compounds" (virtual screening) and can run on Windows-based machine.
 
 Availability & Implementation
 -----------------------------------
