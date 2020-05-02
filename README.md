@@ -25,11 +25,17 @@ Implementation
 1. Download and install anaconda--python 3.7--windows 64-Bit from https://www.anaconda.com/products/individual
 2. run 'Anaconda Prompt' and run the following commands:
   $ conda create -n HDAC3 python==3.7 (HDAC3 is an environment set by users)
+  
   $ conda activate HDAC3
+  
   $ conda install pandas==0.25.1
+  
   $ conda install numpy==1.16.5
+  
   $ conda install joblib==0.13.2
+  
   $ conda install scikit-learn==0.21.3
+  
   $ conda install rdkit==2019.09.3
 3. Download 'xgboost-1.0.2-cp37-cp37m-win_amd64.whl' from https://www.lfd.uci.edu/~gohlke/pythonlibs/#xgboost
 4. Create a new directory, e.g. D:/HDAC3i-Finder and put the file 'xgboost-1.0.2-cp37-cp37m-win_amd64.whl' in D:/HDAC3i-Finder  
@@ -47,6 +53,7 @@ Implementation
 Usage
 -----------------------------------
 * Single Compound mode
+
 This mode is used for predicting whether a single compound is active for HDAC3 or not.  
 1. click the 'load a model' to load the machine-learning model and paste SMILES of a compound to predict. 
 2. click the 'Classify' button and the activity class of the compound is shown in the textbox along with the probability of the activity class. 
