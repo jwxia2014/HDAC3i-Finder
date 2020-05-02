@@ -11,7 +11,7 @@ https://github.com/jwxia2014/HDAC3i-Finder
 
 Installation
 -----------------------------------
-1. Dependency
+* Dependency
 
 RDKit 2019.09.3  
 joblib 0.13.2  
