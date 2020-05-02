@@ -52,9 +52,9 @@ Implementation
 1. download HDAC3i-Finder.py and put it in a directory, e.g. D:/HDAC3i-Finder  
 2. Run 'Anaconda Prompt' and run the following commands:
 
-  $ conda activate HDAC3
+    $ conda activate HDAC3
   
-  $ python D:/HDAC3i-Finder/HDAC3i-Finder.py (The GUI application will be shown)
+    $ python D:/HDAC3i-Finder/HDAC3i-Finder.py (The GUI application will be shown)
 
 Usage
 -----------------------------------
