@@ -7,7 +7,7 @@ HDAC3i-Finder is a python GUI application for virtually screening for HDAC3 inhi
 Availability
 -----------------------------------
 HDAC3i-Finder and its source code and test case (screening a PubChem library, 'HDAC3_pubchem.csv') are available from here: 
-https://github.com/jwxia2014/HDAC3i-Finder
+https://github.com/jwxia2014/HDAC3i-Finder . In addition, the original data sets used for modeling are also provided in the folder 'data_for_modeling'. 
 
 Implementation
 -----------------------------------
