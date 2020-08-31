@@ -1,0 +1,1099 @@
+CHEMBL_ID,SMILES,activity,IC50_mean,Standard Units,Source,Document,Document Journal,Document Year
+CHEMBL3890451,Cc1csc(C(=O)NCCCCCC(=O)Nc2ccccc2N)n1,Active,0.129,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3953948,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc[nH]1,Active,0.46,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3233703,O=C(/C=C/c1ccc(OC[C@H](Cc2c[nH]c3ccccc23)NC(=O)c2ccc(F)cc2)cc1)NO,Active,0.0055,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL3899528,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1OC(F)F,Active,0.214,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL178456,O=C(CS)NCCCCCC(=O)Nc1cccc2cccnc12,Inactive,1.32,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL3601778,Cc1ccc(Nc2nccc3ccc(NCc4ccc(/C=C/C(=O)NO)cc4)cc23)cc1,Active,0.17648,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL463788,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc(CNc2ccncc2)cc1,Inactive,6.39,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3664022,Nc1ccc(F)cc1NC(=O)c1cnc2c(C3CC3)c(N3CCNCC3)ccc2c1,Active,0.059,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL1796689,CC(C)[C@H]1NC(=O)[C@]2(C)CSC(=N2)c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.0016,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3287265,CC(C)(O)Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Inactive,2.3965,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3968861,O=C(CCCCNC(=O)c1nc(-c2nc(-c3ccccc3)cs2)sc1C1CC1)NO,Active,0.106,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3655983,O=C(NO)c1cnc(NCc2cccnc2)nc1,Active,0.174,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4069885,CC(C)[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.6,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3287254,CCCCc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.189,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3975513,COCCn1c(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc2ccccc21,Active,0.143,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3664030,Nc1cc(F)ccc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2c1,Active,0.47,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3655970,Cc1ccc(C2(Nc3ncc(C(=O)NO)cn3)CC2)cc1,Active,0.157,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL455455,O=C(NCc1ccccc1)c1ccc(C(=O)C(F)(F)F)s1,Active,0.52,uM,Scientific Literature,CHEMBL1152136,Bioorg. Med. Chem. Lett.,2008
+CHEMBL483495,O=C(CCCCCCC(=O)Nc1ccc(-c2cn(CC(O)c3cccc(Br)c3)nn2)cc1)NO,Active,0.0253,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3655962,CC(Nc1ncc(C(=O)NO)cn1)c1ccncc1,Active,0.135,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3906734,O=C(CCCCNC(=O)c1nc(-c2nc(C3CC3)cs2)sc1C1CC1)NO,Active,0.052,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL1767046,CNC(=O)/C(CCCCC[C@H](NCc1ccc(OC)cc1)C(=O)Nc1ccccc1)=N\O,Inactive,10.6,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL4068011,O=C(CCCCN1C(=O)[C@H](CC(=O)NO)N=C(c2ccccc2)c2ccccc21)NO,Inactive,10.39,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3656019,O=C(NO)c1cnc(NC2(c3ccc(F)cc3)CCOCC2)nc1,Inactive,1.777,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3977389,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2c(c1)OCCO2,Active,0.585,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2046621,COc1ccc(/C=C/C(=O)Nc2ccc(C(C)N3CCc4nc(C(=O)NO)sc4C3)cn2)cc1,Inactive,5.7,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3601774,CC(C)CCn1ccc2ccc(NC(=O)CCCCCCC(=O)NO)cc2c1=O,Active,0.06919,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL1668018,O=C(CCC1=CCN(CCCc2ccc3ccccc3c2)C1=O)NO,Inactive,80.1,uM,Scientific Literature,CHEMBL1667837,Bioorg. Med. Chem. Lett.,2011
+CHEMBL513061,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc(CN2CCC3(CCNC3)CC2)cc1,Inactive,6.928,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3898697,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cnc2ccccc2c1,Active,0.424,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL511432,Nc1cccc(-c2csc(NC(=O)CCCCc3cc(C(=O)NO)no3)n2)c1,Active,0.025,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3827055,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)[C@@H]1C[C@@H]2CC[C@H](C1)O2,Inactive,13.7,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3983272,CN1CCN(CCn2ncc3cc(C(=O)Nc4cc(-c5ccccc5)ccc4N)ccc32)CC1,Active,0.175,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3353927,O=C1CC[C@H](C(=O)N[C@@H](CCCCCS)C(=O)Nc2cccc(C(F)(F)F)c2)N1,Active,0.011,uM,Scientific Literature,CHEMBL3352629,Bioorg. Med. Chem. Lett.,2015
+CHEMBL2046610,O=C(Nc1ccc(C(=O)N2CCc3nc(C(=O)NO)sc3C2)cc1)c1ccc(-c2ccccc2)s1,Inactive,2.66,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3758492,O=C(CCCCCC(=O)N/N=C/c1ccc(-c2cncnc2)cc1)NO,Active,0.0024,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3977782,COc1ccc(C(=O)NCC/C=C/CC(=O)Nc2ccccc2N)cc1,Inactive,1.983,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL467792,CC(C)(C)OC(=O)Nc1ccc(-c2cc(C(=O)NCCCCC(=O)NO)no2)cc1,Active,0.115,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3354920,COc1ccccc1C(=O)N[C@H](COc1cccc(/C=C/C(=O)NO)c1)Cc1c[nH]c2ccccc12,Active,0.0287,uM,Scientific Literature,CHEMBL3351443,Eur. J. Med. Chem.,2015
+CHEMBL3895630,CCC(CC)(c1ccc(OCC(=O)NO)c(C)c1)c1ccc(OCC(C)(C)O)c(C)c1,Inactive,17,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL483893,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(CC(O)c3cccc(Br)c3)nn2)c1)NO,Active,0.0027,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3655953,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(F)c(F)c1,Inactive,1.058,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL2390999,O=C(/C=C/c1ccc2c(c1)C(=O)NC1(CCN(Cc3ccccc3)CC1)O2)NO,Active,0.087,uM,Scientific Literature,CHEMBL2390828,Eur. J. Med. Chem.,2013
+CHEMBL3339016,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(Cl)cc3F)ncnc2s1)NO,Active,0.01447,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3317815,C[C@@]12CSC(=N1)c1csc(n1)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](CCCN)NC2=O,Active,0.006,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3971652,CN1CCN(c2cccc(C(=O)NCCCCCC(=O)Nc3ccccc3N)c2)CC1,Active,0.066,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3621296,O=C(CCCCC(=O)Nc1ccc2c(c1)/C(=C/c1ccc[nH]1)C(=O)N2)NO,Active,0.00977,uM,Scientific Literature,CHEMBL3621077,MedChemComm,2014
+CHEMBL525529,O=C(c1ccc(C(=O)C(F)(F)F)s1)N1CCc2ccccc21,Inactive,1.55,uM,Scientific Literature,CHEMBL1152285,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3912393,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc2nn(CCN3CCOCC3)cc2c1,Active,0.477,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3217994,C#Cc1cccc(Nc2ncnc3cc(NC(=O)c4ccc(C(=O)Nc5ccccc5N)s4)ccc23)c1,Active,0.77,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3938982,CCSc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.381,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3670668,COc1ccc(-c2cc(-c3ccccc3)[nH]c2C(=O)NCc2ccc(C(=O)NCCS)cc2)cc1,Active,0.1239,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3622375,Nc1ccccc1NC(=O)c1ccc(-c2cn(CCc3cccc([N+](=O)[O-])c3)nn2)s1,Active,0.26,uM,Scientific Literature,CHEMBL3621113,J. Med. Chem.,2015
+CHEMBL3952742,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=S)Nc3ccccc3)CC2)nc1,Active,0.111,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL2177587,CN1C[C@H](c2ccc(/C=C/C(=O)Nc3ccccc3N)cc2)[C@@H](C(=O)Nc2ccc(Cl)cc2)C1,Active,0.23,uM,Scientific Literature,CHEMBL2177000,J. Med. Chem.,2012
+CHEMBL3984252,Nc1ccccc1NC(=O)CCCCCNC(=O)c1nccs1,Inactive,1.082,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL513160,O=C(CCCCOCc1cc(-c2ccccc2)on1)NO,Active,0.0129,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3908578,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1C(F)(F)F,Active,0.808,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4064767,COc1ccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c(C)c1,Active,0.14407,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL3938587,Cc1ccc(S(=O)(=O)N2CCC(Nc3ncc(C(=O)NO)cn3)(c3ccccc3)CC2)cc1,Inactive,2.513,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3655980,O=C(NO)c1cnc(NC2CCCCC2)nc1,Inactive,1.098,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3664036,Nc1ccc(F)cc1NC(=O)c1ccc2nc(N3CCNCC3)cnc2c1,Active,0.235,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3110003,O=C(NO)C1c2ccccc2-c2ccccc21,Inactive,39,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL3339028,CCN(CC)c1ccc(Nc2ncnc3sc(NC(=O)CCCCCCC(=O)NO)cc23)cc1F,Active,0.00352,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3914611,CCC(CC)(c1ccc(OCC(=O)NO)c(C)c1)c1ccc(OCC(CO)CO)c(C)c1,Inactive,36.1,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL4085884,O=C(CCCCN1C(=O)[C@H](CO)N=C(c2ccccc2)c2ccccc21)NO,Inactive,4.94,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL511797,Nc1ccc(-c2ccsc2)cc1NC(=O)c1ccc(N2CCC3(CCNC3)CC2)nc1,Inactive,1270,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3933626,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCCCC(=O)NO,Active,0.073,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL1164225,C[C@H](CCCNS(C)(=O)=O)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,730,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL3655977,O=C(NO)c1cnc(NC2(c3ccc(F)cc3)CCCCC2)nc1,Inactive,13.474,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652232,CN(c1ccc(Cl)c(Cl)c1)c1ncc(C(=O)NO)cn1,Active,0.219,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL2046612,O=C(/C=C/c1ccccc1)NCCCN1CCc2nc(C(=O)NO)sc2C1,Inactive,13.48,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL1631918,COc1cc2cc(c1)COc1ccccc1NC(=O)[C@@H](CCCCCC(=O)NO)OCCC2,Active,0.0945,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL227118,O=C(CCCCCNC(=O)NC12CC3CC(CC(C3)C1)C2)NO,Inactive,1.56,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL3884118,COc1ccc2c(c1)c(CC(=O)NCCCCCC(=O)NO)c(C)n2C(=O)c1ccc(Cl)cc1,Active,0.722,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL2323288,CC(C)[C@@H]1NC(=O)Cn2nnnc2-c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.649,uM,Scientific Literature,CHEMBL2321647,ACS Med. Chem. Lett.,2013
+CHEMBL3353925,O=C1CC[C@H](C(=O)N[C@@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.005,uM,Scientific Literature,CHEMBL3352629,Bioorg. Med. Chem. Lett.,2015
+CHEMBL3903466,Cc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.716,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL407959,COc1ccc2[nH]c(C)c(CC(=O)N[C@@H](CCCCCC(C)=O)c3ncc(-c4ccccc4)[nH]3)c2c1,Active,0.121,uM,Scientific Literature,CHEMBL1152225,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3964239,COc1ccc(N)c(NC(=O)CCCCCNC(=O)c2ccc(C)cc2)c1,Active,1,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3937294,Cn1c(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc2cc(F)ccc21,Active,0.077,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL483693,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(Cc3ccccc3)nn2)c1)NO,Active,0.0079,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3968415,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCNC(=O)CS,Active,0.327,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL242039,CCSC(=S)SCC(=O)c1ccc(OC)cc1,Inactive,3.16228,uM,Scientific Literature,CHEMBL1146229,Bioorg. Med. Chem. Lett.,2007
+CHEMBL3655984,O=C(NO)c1cnc(NCc2ccc(-c3ccccc3)cc2)nc1,Active,0.019,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3939779,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Nc3ccc(Cl)c(Cl)c3)CC2)nc1,Inactive,2.164,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3233705,COc1ccc(C(=O)N[C@H](COc2ccc(/C=C/C(=O)NO)cc2)Cc2c[nH]c3ccccc23)cc1,Active,0.0032,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL3622374,Nc1ccccc1NC(=O)c1ccc(-c2cn(CCc3ccsc3)nn2)cc1,Inactive,2.09,uM,Scientific Literature,CHEMBL3621113,J. Med. Chem.,2015
+CHEMBL483254,Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1,Active,0.01364,uM,Scientific Literature,CHEMBL3860059,J Med Chem,2016
+CHEMBL3656023,O=C(NO)c1cnc(NC2(c3cccs3)CCCCC2)nc1,Inactive,3.365,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3339011,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1)NO,Active,0.01791,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL16300,O=C(NO)c1ccccc1,Inactive,7.83,uM,Scientific Literature,CHEMBL2331470,J. Med. Chem.,2013
+CHEMBL3896374,Nc1cnc(-c2ccccc2)cc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2c1,Inactive,1.876,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3900617,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1C,Active,0.144,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655988,O=C(NO)c1cnc(NC2c3ccccc3-c3ccccc32)nc1,Inactive,1.327,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3923213,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2ccccc2cn1,Active,0.314,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655974,O=C(NO)c1cnc(NC2(c3ccc(CO)cc3)CC2)nc1,Active,0.037,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3287266,C/C=C/c1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.108,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL4086409,CCCCC(CCCC(=O)NO)CCC(=O)Nc1ccccc1,Inactive,1.6,uM,Scientific Literature,CHEMBL4052702,Bioorg Med Chem Lett,2017
+CHEMBL3900516,CN1CCN(c2ccccc2C(=O)NCCCCCC(=O)Nc2ccccc2N)CC1,Active,0.636,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4091540,O=C(CCCCN1C(=O)[C@H](Cc2ccccc2)N=C(c2ccccc2)c2ccccc21)NO,Active,0.49,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3884552,COC(=O)Cc1c(C)n(Cc2ccc(-c3cn(CCCCCC(=O)NO)nn3)cc2)c2ccc(OC)cc12,Active,0.224,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3593415,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2ccnc(c2)CNC(=O)C[C@@H](/C=C/CCS)NC1=O,Active,0.01459,uM,Scientific Literature,CHEMBL3593208,Bioorg. Med. Chem.,2015
+CHEMBL2448576,CCC(=O)CCCCC[C@H](NC(=O)C1CN(C)C1)c1ncc(-c2cc3ccccc3nc2OC)[nH]1,Active,0.012,uM,Scientific Literature,CHEMBL1136937,J. Med. Chem.,2009
+CHEMBL2442792,COc1cc([C@@H]2c3cc4c(cc3[C@@H](Nc3cccc(OCCCC(=O)NO)c3)[C@H]3COC(=O)[C@@H]32)OCO4)cc(OC)c1O,Active,0.767,uM,Scientific Literature,CHEMBL2439983,Bioorg. Med. Chem.,2013
+CHEMBL4113424,C[C@@H](C(=O)N1CCC(C)(Nc2ncc(C(=O)NO)cn2)CC1)c1ccccc1,Active,0.422,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3655919,O=C(NO)c1cnc(NCc2ccc(Cl)cc2)nc1,Active,0.075,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655930,O=C(NO)c1cnc(NCc2ccccc2OC(F)(F)F)nc1,Active,0.3,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3925038,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(S(=O)(=O)c3cccc(F)c3)CC2)nc1,Inactive,2.485,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3287007,CCCCCCCC(=O)SCC/C=C/COC(=O)[C@@H](NC(=O)c1csc(-c2cscn2)n1)C(C)C,Inactive,2.8305,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3655954,O=C(NO)c1cnc(NCc2cnccn2)nc1,Active,0.434,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3953547,CCCCCC(CCCCCC(=O)Nc1ccccc1)C(=O)NO,Inactive,43,uM,Scientific Literature,CHEMBL3877334,ACS Med Chem Lett,2017
+CHEMBL3909885,Nc1ccccc1NC(=O)CCCCCNS(=O)(=O)c1ccccc1,Inactive,1.1,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL594544,O=C(NO)c1cnc(N2CCN(C(/C=C/c3ccc(F)cc3)CO)CC2)nc1,Active,0.03,uM,Scientific Literature,CHEMBL1153112,Bioorg. Med. Chem. Lett.,2010
+CHEMBL3394285,O=C(/C=C/c1ccc(C(F)(F)F)cc1)NO,Inactive,5.37,uM,Scientific Literature,CHEMBL3751715,Bioorg. Med. Chem.,2016
+CHEMBL3339014,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(Cl)c(C(F)(F)F)c3)ncnc2s1)NO,Active,0.02353,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL4079199,COc1ccc(C(=O)N[C@H](COc2ccc(C(=O)Nc3ccccc3N)cc2)Cc2c[nH]c3ccccc23)cc1,Active,0.09,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL3339030,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(O[C@H]4CCOC4)c(Cl)c3)ncnc2s1)NO,Active,0.00358,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL520056,O=C(CCCCCCC(=O)Nc1cccc(-c2cnnn2-c2ccccc2)c1)NO,Active,0.0077,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3897044,Cc1cnc(-c2nc(C(=O)NCCCCC(=O)NO)c(C3CC3)s2)s1,Active,0.075,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3287262,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1Cc1ccccc1)NO,Active,0.0795,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3933316,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc(C2CC2)on1,Active,0.19,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL462208,C[C@H](NC(=O)c1ccc(C(=O)C(F)(F)F)s1)c1ccccc1,Inactive,9.4,uM,Scientific Literature,CHEMBL1152285,Bioorg. Med. Chem. Lett.,2008
+CHEMBL4060412,O=C(/C=C/c1cccc(C(=O)NO)c1)NO,Active,0.07,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL3577298,CC1=C(C)C(=O)C(CONC(=O)CCCCCCC(=O)Nc2ccccc2)=C(C)C1=O,Active,0.149,uM,Scientific Literature,CHEMBL3576788,J. Med. Chem.,2015
+CHEMBL3932247,Nc1ccccc1NC(=O)CCCCCNC(=O)CCc1ncc(-c2ccccc2)o1,Active,0.284,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1243289,O=C(CCCCC1CC(C(=O)NO)=NO1)Nc1ccccc1,Inactive,28.1,uM,Scientific Literature,CHEMBL1240475,Eur. J. Med. Chem.,2010
+CHEMBL3356934,O=C(CCCCCCS)NCc1cccc(OCc2ccccc2)c1,Inactive,2.95,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL1096982,O=C(O)CC/C=C\C[C@@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,Inactive,22,uM,Scientific Literature,CHEMBL1158553,Bioorg. Med. Chem.,2010
+CHEMBL4069031,C[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,1.8,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL109,CCCC(CCC)C(=O)O,Inactive,161,uM,Scientific Literature,CHEMBL1671826,ACS Med. Chem. Lett.,2011
+CHEMBL3933572,Nc1ccc(-c2ccccc2)cc1NC(=O)CCCCCCNC(=O)c1cccnc1,Inactive,20,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3911708,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc2[nH]ccc12,Active,0.072,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1243261,O=C(CCCCc1cc(C(=O)NO)no1)Nc1ccccc1,Inactive,26.7,uM,Scientific Literature,CHEMBL1240475,Eur. J. Med. Chem.,2010
+CHEMBL2385954,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(=O)CCCCC(=O)NO)CC2,Active,0.83,uM,Scientific Literature,CHEMBL2385041,Bioorg. Med. Chem.,2013
+CHEMBL3287016,CC(C)[C@H](NC(=O)c1csc(-c2cscn2)n1)C(=O)NCCC(=O)NO,Inactive,3.153,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3918012,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(NC2CC2)cc1,Active,0.078,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL398884,O=C(Nc1cc(-c2ccccc2)ccc1O)c1cccs1,Inactive,2.81,uM,Scientific Literature,CHEMBL1140803,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3956667,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2ncsc2c1,Active,0.326,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655989,COc1cccc(C2(Nc3ncc(C(=O)NO)cn3)CC2)c1,Active,0.128,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL497331,O=C(NCC1CCCCC1)c1ccc(C(=O)C(F)(F)F)s1,Inactive,3.1,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3655928,COc1ccccc1CNc1ncc(C(=O)NO)cn1,Active,0.506,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1631917,COc1cc2cc(c1)COc1ccccc1NC(=O)[C@H](CCCCCC(=O)NO)OCCC2,Active,0.0936,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL3916454,Nc1ccccc1NC(=O)CCCCCNS(=O)(=O)c1ccc(F)cc1,Inactive,3.8,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3964972,Cc1ccc(C(=O)NCCCCCC(=O)Nc2cc(-n3cccn3)c(F)cc2N)cc1,Inactive,20,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3967028,Cn1c(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc2cc(Cl)ccc21,Active,0.058,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3933352,CCOc1cccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c1,Active,0.182,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3621294,O=C(CCCCCCC(=O)Nc1ccc2c(c1)/C(=C/c1ccc[nH]1)C(=O)N2)NO,Active,0.000669,uM,Scientific Literature,CHEMBL3621077,MedChemComm,2014
+CHEMBL468527,O=C(CCCCc1cc(C(=O)NO)no1)Nc1ccc(-c2ccccc2)cc1,Inactive,7.41,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3936491,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(C(F)(F)F)cc1,Active,0.6,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3109980,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1cc(Cl)c2c(c1)OCCO2,Inactive,4.7,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL3947383,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(S(=O)(=O)c3ccccc3)CC2)nc1,Inactive,3.545,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3827262,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)C1C2COCC21,Inactive,1.49,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3287006,CC(C)[C@@H]1NC(=O)c2csc(n2)-c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.085,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3759921,O=C(CCCCCCC(=O)N/N=C/c1ccc(-c2ccccc2)cc1)NO,Active,0.002,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL2364628,O=C(CCCCCCNC(=O)c1cnc(N(c2ccccc2)c2ccccc2)nc1)NO,Active,0.093,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL236678,Nc1ccccc1NC(=O)c1cccnc1,Inactive,3.64,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3656020,O=C(NO)c1cnc(NC2(c3cccc(F)c3)CCCC2)nc1,Inactive,1.373,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1093040,CCc1ccccc1NC(=O)CCCCC(=O)NO,Inactive,2.263,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3940441,Nc1cc(F)ccc1NC(=O)CCCCCNC(=O)c1ccccn1,Inactive,2.01,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3908408,Cc1cccc2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)[nH]c12,Active,0.032,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL569122,CC(C)C[C@H]1CC(=O)N[C@@H](C)C(=O)N[C@@H](CSCCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)N1,Inactive,7.08,uM,Scientific Literature,CHEMBL1156016,J. Med. Chem.,2009
+CHEMBL3664031,Nc1ccccc1NC(=O)c1cc2ccc(N3CCNCC3)cc2cn1,Active,0.038,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL2408778,Nc1ncnc2c1c(-c1ccc(Cl)cc1)nn2-c1cccc(-c2cnnn2CCCCCC(=O)NO)c1,Active,0.019,uM,Scientific Literature,CHEMBL2406958,ACS Med. Chem. Lett.,2013
+CHEMBL4082466,Nc1ccccc1NC(=O)c1ccc(NC(=O)CCN2C(=O)C3(OCCCO3)c3cc(Cl)ccc32)cc1,Active,0.311,uM,Scientific Literature,CHEMBL4033688,Bioorg Med Chem,2017
+CHEMBL3339012,O=C(CCCCC(=O)Nc1cc2c(Nc3ccc(Cl)c(C(F)(F)F)c3)ncnc2s1)NO,Active,0.60703,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3318732,COc1ccc2cc(C(=O)/C=C/C=C/c3ccc(OC)c(OC)c3)c(=O)oc2c1,Inactive,12,uM,Scientific Literature,CHEMBL3351243,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3655909,O=C(NO)c1cnc(Nc2cc(F)cc(C(F)(F)F)c2)nc1,Active,0.27,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3309299,CC1(C)CC(=O)Nc2ccc(C(=O)NC[C@H]3CC[C@@H](/C=C/C(=O)NO)CC3)cc21,Active,0.37,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3976623,O=C(CCCCNC(=O)c1nc(-c2nc3c(s2)CCCCC3)sc1C1CC1)NO,Active,0.161,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3656005,O=C(NO)c1cnc(NC2(c3ccc(Cl)cc3)CC2)nc1,Active,0.107,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3309290,CC1(C)CC(=O)Nc2ccc(C(=O)NCc3cccc(/C=C/C(=O)NO)c3)cc21,Active,0.21,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL2407730,O=C(NO)c1ccc(CNc2nccc(-c3cccnc3)n2)cc1,Active,0.102,uM,Scientific Literature,CHEMBL3751819,MedChemComm,2015
+CHEMBL3601777,Cc1ccc(Nc2nccc3ccc(NCc4ccc(C(=O)NO)cc4)cc23)cc1,Active,0.26398,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3655921,O=C(NO)c1cnc(NCc2ccccc2C(F)(F)F)nc1,Active,0.891,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3951951,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(C2CC2)cc1,Active,0.104,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3918218,CCc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.585,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655963,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(C(F)(F)F)cc1F,Inactive,2.891,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3925407,CC(C)(C)c1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.4,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287256,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1C1CCCCC1)NO,Active,0.3275,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL541451,N=C(N)NCCC[C@H](N)C(=O)NCC(=O)N[C@@H](CCCCCC(=O)Nc1ccccc1N)C(=O)Nc1ccccc1N,Inactive,1.3,uM,Scientific Literature,CHEMBL1151874,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3758251,O=C(CCCCC(=O)N/N=C/c1ccc(-c2ccccc2)cc1)NO,Active,0.061,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3934285,CCOc1ccc2[nH]c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc2c1,Active,0.049,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3652234,O=C(NO)c1cnc(Nc2cc(Cl)ccc2Cl)nc1,Active,0.352,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL487943,O=C(CCCCCCC(=O)Nc1ccc(-c2cnnn2CC(O)c2cccc(Br)c2)cc1)NO,Active,0.0151,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3233698,O=C(/C=C/c1ccc(OC[C@H](Cc2c[nH]c3ccccc23)NC(=O)c2ccc(Cl)cc2)cc1)NO,Active,0.0039,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL3675757,O=C(CCCCCCN(c1ccccn1)c1ccccn1)NO,Active,0.71,uM,BindingDB Database,CHEMBL3639343,,2014
+CHEMBL3957946,Nc1cc(F)ccc1NC(=O)CCCCCN1CCc2cc(F)ccc2C1=O,Inactive,1.411,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3353053,Cn1cccc1C(=O)N1CCn2cc(C(=O)NO)cc2C1,Inactive,8.5,uM,Scientific Literature,CHEMBL3351349,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3655918,O=C(NO)c1cnc(NCc2ccccc2)nc1,Active,0.128,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL2046620,CC(c1ccc(NC(=O)/C=C/c2ccccc2)nc1)N1CCc2nc(C(=O)NO)sc2C1,Inactive,4.8,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3655995,O=C(NO)c1cnc(NC2(c3cc(C(F)(F)F)ccc3F)CC2)nc1,Active,0.022,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3896998,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc2c(c1)c(C1CC1)cn2CCN1CCOCC1,Inactive,1.905,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3655943,C[C@H](Nc1ncc(C(=O)NO)cn1)c1ccccc1,Inactive,5.3725,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL2012817,CCC(=O)CCCCC[C@@H]1NC(=O)[C@@H](C)n2nncc2[C@H](CC(C)C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,Active,0.009,uM,Scientific Literature,CHEMBL4052703,Bioorg Med Chem Lett,2017
+CHEMBL3339034,O=C(CCCCCCC(=O)Nc1cc2c(Cl)ncnc2s1)NO,Active,0.02653,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3942719,Cc1ccc2c(c1)cc(C(=O)NCCCCCC(=O)Nc1ccccc1N)n2C,Active,0.092,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3930488,COc1ccc2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)[nH]c2c1,Active,0.026,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3339029,CN(C)c1ccc(Nc2ncnc3sc(NC(=O)CCCCCCC(=O)NO)cc23)cc1F,Active,0.00322,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3670670,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccc(F)cc3)cc2-c2ccc(F)cc2)cc1,Inactive,3.9,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL4082243,COc1ccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)cc1,Active,0.21548,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL406927,COc1ccc2[nH]c(C)c(CC(=O)N[C@@H](CCCCCC(C)=O)c3nc4ccc(Cl)cc4[nH]3)c2c1,Active,1,uM,Scientific Literature,CHEMBL1144784,J. Med. Chem.,2008
+CHEMBL255805,Nc1ccc(-c2ccccc2)cc1NC(=O)c1cccnc1,Inactive,11.35,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3335298,O=C(CCCCc1ccn(Cc2ccc(-n3ccc4ccccc43)cc2)n1)NO,Active,0.246,uM,Scientific Literature,CHEMBL3352093,Eur. J. Med. Chem.,2014
+CHEMBL3639548,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(F)cc1,Inactive,1.48,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3956299,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)Nc1ccccc1N,Inactive,3.814,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3925099,Cc1nc(-c2nc(C(=O)NCCCCC(=O)NO)c(C3CC3)s2)sc1C,Active,0.097,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3937615,CS(=O)(=O)c1ccc(C(=O)NCCCCC(=O)Nc2ccccc2N)cc1,Inactive,11.95,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3758191,Cc1ccccc1-c1ccc(/C=N/NC(=O)CCCCCC(=O)NO)cc1,Active,0.0054,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3601341,CC(C)N1CCN(c2nccc3ccc(NC(=O)CCCCCCC(=O)NO)cc23)CC1,Active,0.036,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3883830,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(=O)(=O)NCCCCCCCC(=O)NO)cc2)cc1,Active,0.256,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3770345,Nc1ccccc1NC(=O)CCCCNC(=O)c1nc(-c2nccs2)sc1C1CC1,Inactive,3.24871,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL561909,Nc1ccccc1NC(=O)CCCCC[C@H](NC(=O)CNC(=O)[C@@H](N)Cc1ccccc1)C(=O)NCC(=O)O,Inactive,69.3,uM,Scientific Literature,CHEMBL1151874,Bioorg. Med. Chem. Lett.,2009
+CHEMBL2442793,COc1cc([C@@H]2c3cc4c(cc3[C@@H](Nc3ccccc3OCCCC(=O)NO)[C@H]3COC(=O)[C@@H]32)OCO4)cc(OC)c1O,Inactive,1.444,uM,Scientific Literature,CHEMBL2439983,Bioorg. Med. Chem.,2013
+CHEMBL3664028,Nc1cc(F)ccc1NC(=O)c1ccc2c(cnn2CCN2CCOCC2)c1,Active,0.32,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3891531,Nc1sc(-c2ccccc2)cc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2c1,Active,0.171,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3931835,Nc1ccccc1NC(=O)/C=C/CCCNC(=O)c1cccc(Cl)c1,Active,0.148,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287261,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1-c1ccc([N+](=O)[O-])cc1)NO,Active,0.2005,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3895935,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(S(N)(=O)=O)cc1,Inactive,1.19,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3356936,Cc1cccc(CCNC(=O)CCCCCCS)c1,Inactive,2.6,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3758457,O=C(/C=C/c1ccc(/C=C(/CNC2CC2)c2ccc(F)cc2)cc1)NO,Active,0.025,uM,Scientific Literature,CHEMBL3758160,Eur. J. Med. Chem.,2016
+CHEMBL487742,O=C(CCCCCCC(=O)Nc1ccc(-c2cnnn2-c2ccccc2)cc1)NO,Active,0.012,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3656000,O=C(NO)c1cnc(NC2(c3ccc(F)c(Cl)c3)CC2)nc1,Active,0.062,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3335300,O=C(CCCCc1ccn(Cc2ccc(-c3ccccc3)cc2)n1)NO,Active,0.03,uM,Scientific Literature,CHEMBL3352093,Eur. J. Med. Chem.,2014
+CHEMBL398420,COC(=O)NCc1ccc(C(=O)Nc2cc(-c3ccccc3)ccc2N)cc1,Inactive,22.45,uM,Scientific Literature,CHEMBL1140803,Bioorg. Med. Chem. Lett.,2008
+CHEMBL2179618,CCCCN(Cc1ccc(C(=O)NO)cc1)C(=O)Nc1ccccc1,Inactive,6.68,uM,Scientific Literature,CHEMBL2176914,J. Med. Chem.,2012
+CHEMBL2385955,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(=O)CCCCCC(=O)NO)CC2,Inactive,1.03,uM,Scientific Literature,CHEMBL2385041,Bioorg. Med. Chem.,2013
+CHEMBL1213490,C/C=C1\NC(=O)[C@@H](CS)NC(=O)[C@@H](C(C)C)CC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](C(C)C)NC1=O,Active,0.03165,uM,Scientific Literature,CHEMBL3621100,J. Med. Chem.,2015
+CHEMBL3655929,O=C(NO)c1cnc(NCc2ccc3c(c2)OCO3)nc1,Active,0.058,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3919167,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCCNC(=O)CS,Active,0.534,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3217999,C#Cc1cccc(Nc2ncnc3ccc(NC(=O)c4ccc(C(=O)Nc5ccccc5N)cc4)cc23)c1,Active,0.61,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3955258,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c(C)c1,Active,0.277,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3885245,COc1ccc2c(c1)c(CC(=O)NCCCCCCCC(=O)NO)c(C)n2C(=O)c1ccc(Cl)cc1,Active,0.283,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3913961,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2[nH]ccc2c1,Active,0.044,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2381517,O=C(NO)c1cccc(C(=O)NCCc2ccccc2)c1,Inactive,23,uM,Scientific Literature,CHEMBL2380312,J. Med. Chem.,2013
+CHEMBL3948452,CC1(C)C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=S)N1c1ccc(/C=C/C(=O)Nc2ccccc2N)c(F)c1,Inactive,20.2,uM,Scientific Literature,CHEMBL3862016,Bioorg Med Chem Lett,2016
+CHEMBL3901374,CCON1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1,Inactive,1.003,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3356931,O=C1CCC[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)NC2CCCC2)N1,Active,0.098,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3907307,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(Cl)cc1,Active,0.3,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3986625,Nc1cc(F)ccc1NC(=O)CCCCCNC(=O)c1cc2ccccc2o1,Active,0.48,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3656009,O=C(NO)c1cnc(NC2(c3ccc(F)c(F)c3)CC2)nc1,Active,0.128,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3907191,Nc1ccccc1NC(=O)C/C=C/CCNC(=O)c1ccccc1,Inactive,5.782,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3656002,COc1ccccc1C1(Nc2ncc(C(=O)NO)cn2)CC1,Active,0.727,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3621297,Nc1ccccc1NC(=O)CCCCC(=O)Nc1ccc2c(c1)/C(=C/c1ccc[nH]1)C(=O)N2,Active,0.00242,uM,Scientific Literature,CHEMBL3621077,MedChemComm,2014
+CHEMBL3954596,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2cn[nH]c2c1,Active,0.115,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3104851,Cc1c(O)c(O)c2c(c1C=O)[C@@H]1O[C@H](O2)c2c(C)c(O)c(O)c(O)c2C1=O,Inactive,12.4,uM,Scientific Literature,CHEMBL3102702,J. Nat. Prod.,2014
+CHEMBL3655917,O=C(NO)c1cnc(NCc2cccc(Cl)c2)nc1,Active,0.034,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652226,O=C(NO)c1cnc(Nc2ccc(Cl)c(Cl)c2)nc1,Active,0.299,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3287023,O=C(CCCCNC(=O)c1csc(-c2nccs2)n1)NO,Active,0.1085,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL467998,O=C(CCCCNC(=O)c1cc(-c2ccccc2)on1)NO,Active,0.158,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3655956,CC(Nc1ncc(C(=O)NO)cn1)(c1ccccc1)c1ccccc1,Inactive,4.676,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1165293,C[C@H](CCCCC(=O)Nc1ccccc1N)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,104,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL4062598,COc1ccc(C(=O)N[C@H](CNCc2ccc(C(=O)Nc3ccccc3N)cc2)Cc2c[nH]c3ccccc23)cc1,Active,0.223,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL3907792,Nc1ccccc1NC(=O)CCCCNC(=O)c1ccnc(N2CCCCC2)c1,Inactive,7.455,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3652227,O=C(NO)c1cnc(Nc2ccc(F)cc2)nc1,Active,0.354,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3426804,O=C(/C=C/c1ccc(NC(=O)C(Cc2ccccc2)c2ccccc2)cn1)NO,Active,0.08,uM,Scientific Literature,CHEMBL3425488,J. Med. Chem.,2015
+CHEMBL3656010,O=C(NO)c1cnc(NC2(c3ccc(Cl)c(Cl)c3)CC2)nc1,Active,0.054,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3935015,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(F)c(F)c1,Active,0.123,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287010,Cc1nc(-c2nc(C(=O)N[C@H](C(=O)OC/C=C/CCS)C(C)C)cs2)cs1,Active,0.108,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3339024,Cc1ccc(Nc2ncnc3sc(NC(=O)CCCCCCC(=O)NO)cc23)cc1,Active,0.00292,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL4086093,O=C(CCCCCCC(=O)Nc1ccccc1CN1CC[C@H](O)C1)NO,Active,0.368,uM,Scientific Literature,CHEMBL4049428,J Med Chem,2017
+CHEMBL3426803,O=C(CCCCSc1nc(-c2ccc(-c3ccccc3)cc2)cc(=O)[nH]1)NO,Active,0.02,uM,Scientific Literature,CHEMBL3425488,J. Med. Chem.,2015
+CHEMBL511715,O=C(CCCCc1cc(C(=O)NO)no1)Nc1cnc2ccccc2c1,Active,0.102,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3972430,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2cccnc2c1,Active,0.946,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL446512,Nc1cccc(-c2cc(C(=O)NCCCCC(=O)NO)no2)c1,Active,0.144,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3655911,O=C(NO)c1cnc(Nc2cccc(-c3ccccc3)c2)nc1,Active,0.181,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3924039,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1C(=O)C(F)(F)F,Inactive,37.91,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3907070,CCc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.183,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655966,O=C(NO)c1cnc(NC(c2ccc(F)cc2)c2ccc(F)cc2)nc1,Active,0.549,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1767037,CNC(=O)/C(CCCCCCC(=O)Nc1cccc(-c2ccc(C(=O)O)cc2)c1)=N\O,Inactive,21.1,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL3982264,CCCCCCC(CCCCCC(=O)Nc1ccccc1)C(=O)NO,Inactive,98,uM,Scientific Literature,CHEMBL3877334,ACS Med Chem Lett,2017
+CHEMBL1767038,CNC(=O)/C(CCCCCCC(=O)Nc1cccc(-c2cccnc2)c1)=N\O,Inactive,18.4,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL3338404,O=C(NO)c1ccc2c(c1)CN(Cc1ccc(-c3cccc([N+](=O)[O-])c3)o1)CC2,Inactive,6.59,uM,Scientific Literature,CHEMBL3351740,J. Med. Chem.,2014
+CHEMBL3655969,CC(C)(Nc1ncc(C(=O)NO)cn1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,Inactive,4.422,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3664034,Nc1cc(F)ccc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2n1,Inactive,1.301,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3655998,COc1cc(OC)cc(C2(Nc3ncc(C(=O)NO)cn3)CC2)c1,Active,0.124,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3664023,Nc1ccccc1NC(=O)c1cnc2c(C3CC3)c(N3CCNCC3)ccc2c1,Active,0.053,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3655951,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(C(F)(F)F)cc1,Inactive,2.376,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL403323,O=C(/C=C/c1ccc(CN(CCO)CCc2cc3ccccc3[nH]2)cc1)NO,Active,0.0037,uM,Scientific Literature,CHEMBL1142268,J. Med. Chem.,2008
+CHEMBL3947538,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCNC(=O)CS,Active,0.495,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3892568,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(S(=O)(=O)c3ccc(Cl)cc3)CC2)nc1,Inactive,3.19,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3956300,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(-c2nnn[nH]2)cc1,Inactive,1.13,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3758882,O=C(NCCCCCCS)c1cc(-c2cccnc2)n[nH]1,Active,0.029,uM,Scientific Literature,CHEMBL3758091,Eur. J. Med. Chem.,2016
+CHEMBL3670661,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccc(O)cc3)cc2-c2ccoc2)cc1,Active,0.7537,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL473484,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc(C(=O)N2CCC3(CCCN3)CC2)cc1,Inactive,5.102,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3771288,O=C(NCCCCC(=O)C(F)(F)F)c1nc(-c2nccs2)sc1Cc1ccccc1,Active,0.06508,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL3939372,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2ccccc2c1,Active,0.137,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3770755,O=C(NCCCCC(O)C(F)(F)F)c1nc(-c2nccs2)sc1C1CC1,Inactive,8.86176,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL3235463,O=C(/C=C/c1ccc(-c2ccc(O)c(C34CC5CC(CC(C5)C3)C4)c2)cc1)NO,Inactive,55.6,uM,Scientific Literature,CHEMBL3232764,Eur. J. Med. Chem.,2014
+CHEMBL3930868,Nc1cc(F)ccc1NC(=O)CCCCCNC(=O)CN1CCOCC1,Inactive,14,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3946574,Cc1[nH]c2ccc(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc2c1C,Active,0.041,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2414098,O=C(CCCCCCc1nc2ccc(Br)cc2[nH]1)NO,Active,0.0064,uM,Scientific Literature,CHEMBL2413017,Bioorg. Med. Chem. Lett.,2013
+CHEMBL3664033,Nc1cc(F)ccc1NC(=O)c1cc2ccc(N3CCNCC3)c(C3CC3)c2cn1,Active,0.03,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL514671,Nc1ccccc1NC(=O)c1ccc(CNCOC(=O)c2cccnc2)cc1,Active,0.62,uM,Scientific Literature,CHEMBL1629443,J. Med. Chem.,2010
+CHEMBL1801238,O=C(NO)c1cnc(N2C[C@H]3[C@H](NCc4ccc(Cl)cc4)[C@H]3C2)nc1,Active,0.01,uM,Scientific Literature,CHEMBL1800056,J. Med. Chem.,2010
+CHEMBL3656015,O=C(NO)c1cnc(NC2(c3cc(Cl)cc(Cl)c3)CC2)nc1,Active,0.057,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4097655,O=C(CCCCCCC(=O)Nc1cc2ncnc(Nc3cccc(Cl)c3)c2s1)NO,Active,0.04555,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL1812335,N[C@H](Cc1ccc(Cl)cc1Cl)C(=O)N1Cc2ccccc2C1,Inactive,20,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3656018,O=C(NO)c1cnc(NC2(c3cccc(F)c3)CCOCC2)nc1,Inactive,1.324,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3936840,Nc1ccc(-c2ccccc2)cc1NC(=O)c1cnc2c(N3CCNCC3)c(C3CC3)ccc2c1,Active,0.257,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL485967,CC(NC(=O)c1ccc(C(=O)C(F)(F)F)s1)c1cccc2ccccc12,Active,0.84,uM,Scientific Literature,CHEMBL1152285,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3899106,Cc1c(C(=O)NCCCCCC(=O)Nc2ccccc2N)[nH]c2ccccc12,Active,0.04,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL570041,CC(C)C[C@H]1CC(=O)N[C@@H](C)C(=O)N[C@@H](CCCCCC(=O)O)C(=O)N[C@@H](Cc2cccc3ccccc23)C(=O)N1,Active,0.99,uM,Scientific Literature,CHEMBL1156016,J. Med. Chem.,2009
+CHEMBL3917305,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1C(=O)c1ccccc1,Active,0.279,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3932246,Nc1ccccc1NC(=O)CCCCNC(=O)c1csc(-c2ccncc2)n1,Active,0.829,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1164992,CC(/C=C/C(=O)NO)=C\[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3/C[C@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,13.3,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL3656012,O=C(NO)c1cnc(NC2(c3cccc(F)c3F)CC2)nc1,Active,0.029,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL514503,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)c1ccc(C(=O)N2CCC3(CCCN3)CC2)cc1,Inactive,3.202,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL4068828,CC(C)c1cccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.06505,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL3929959,COc1cccc2[nH]cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)c12,Active,0.058,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2323290,CC(C)[C@@H]1NC(=O)Cn2cc(nn2)-c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.885,uM,Scientific Literature,CHEMBL2321647,ACS Med. Chem. Lett.,2013
+CHEMBL3975961,N#Cc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.086,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3759869,CC(=O)SCCCCCCNC(=O)c1cc(-c2ccc(F)cc2)nn1C,Active,0.068,uM,Scientific Literature,CHEMBL3758139,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3920532,O=C(NO)c1cnc(NC2(c3cc(F)ccc3F)CCOCC2)nc1,Active,0.671,uM,BindingDB Database,CHEMBL3886954,,2016
+CHEMBL390452,O=C(/C=C/c1cccc(C(=O)c2cc3ccccc3o2)c1)NO,Active,0.079,uM,Scientific Literature,CHEMBL1148761,J. Med. Chem.,2007
+CHEMBL3895086,Cc1cccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c1,Active,0.058,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3943758,CCC(CC)(c1ccc(OCC(=O)NO)c(C)c1)c1ccc(OC[C@H](O)C(C)(C)C)c(C)c1,Inactive,22,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL487253,Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21,Active,0.025,uM,BindingDB Database,CHEMBL3638914,,2015
+CHEMBL3655908,O=C(NO)c1cnc(Nc2cc(Cl)cc(C(F)(F)F)c2)nc1,Active,0.83,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3891112,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1/C=C/c1ccccc1)NO,Active,0.253,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3955671,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc(-c2nnn[nH]2)c1,Active,0.9,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3977741,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Nc3ccccc3F)CC2)nc1,Active,0.824,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL2046617,COc1ccc(/C=C/C(=O)NCCCCN2CCc3nc(C(=O)NO)sc3C2)cc1,Inactive,34.12,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL486324,CCCCC(=O)CCCCC[C@H](NC(=O)C1CCN(C)CC1)c1ncc(-c2ccc3ccccc3c2)[nH]1,Active,0.18,uM,Scientific Literature,CHEMBL1152225,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3891665,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2cc[nH]c2c1,Active,0.041,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4078477,Nc1cc(F)ccc1NC(=O)/C=C/c1cnn(C/C=C/c2ccccc2)c1,Active,0.08,uM,Scientific Literature,CHEMBL4033774,J Med Chem,2018
+CHEMBL256440,Nc1ccc(-c2cccs2)cc1NC(=O)c1cccnc1,Inactive,7.3,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL4073372,CC(C)(C)OC(=O)NCCCC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.59,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4064784,CC(C)(C)OC(=O)C[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,4.15,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3655971,O=C(NO)c1cnc(NC2(c3cccc(Cl)c3)CC2)nc1,Active,0.05,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3979648,COC(=O)CCCCCCCc1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,Inactive,10.7,uM,Scientific Literature,CHEMBL3862016,Bioorg Med Chem Lett,2016
+CHEMBL3356939,O=C1CCC[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)N2CCc3ccccc3C2)N1,Inactive,6.33,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3655973,CC(Nc1ncc(C(=O)NO)cn1)(c1ccc(F)cc1)c1ccc(F)cc1,Inactive,5.709,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1835671,CCC(CCCCC(=O)Nc1ccccc1)CC(=O)NO,Inactive,97,uM,Scientific Literature,CHEMBL1833846,Bioorg. Med. Chem. Lett.,2011
+CHEMBL3311464,O=C(CCCCCCC(=O)Nc1ccc2[nH]c(=O)ccc2c1)NO,Active,0.054,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL1923808,O=C(CCCCCCC(=O)Nc1ccc([19F])cc1)NO,Active,0.0239,uM,Scientific Literature,CHEMBL1921669,J. Med. Chem.,2011
+CHEMBL3339010,O=C(CCCCCC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1)NO,Active,0.03767,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3958558,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1Cl,Active,0.442,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3942298,CC(C)(C)OC(=O)NCc1nc(-c2nc(C(=O)NCCCCC(=O)NO)cs2)cs1,Active,0.895,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3664024,Nc1cc(F)ccc1NC(=O)c1ccc2c(c1)CC(=O)N2,Active,0.269,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL487741,O=C(CCCCCCC(=O)Nc1ccc(-c2cnnn2Cc2ccc(F)cc2)cc1)NO,Active,0.0164,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3652243,COc1cc(Nc2ncc(C(=O)NO)cn2)cc(OC)c1,Active,0.257,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3098695,O=C(CCCCC[C@H](NC(=O)[C@@H]1CC(=O)N1)C(=O)Nc1ccccc1)NO,Active,0.088,uM,Scientific Literature,CHEMBL3352629,Bioorg. Med. Chem. Lett.,2015
+CHEMBL1631910,O=C(CCCCCC1OCCCCCOc2ccccc2NC1=O)NO,Active,0.369,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL1164227,C[C@H](CCCCNS(=O)(=O)C(F)(F)F)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,695,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL3940906,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2c(F)cccc2[nH]1,Active,0.06,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3884044,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(=O)(=O)NCCCCCC(=O)NO)cc2)cc1,Inactive,1.02,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL2436595,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2coc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.0072,uM,Scientific Literature,CHEMBL2434914,Bioorg. Med. Chem. Lett.,2013
+CHEMBL569812,CCC(=O)CCCSC[C@@H]1NC(=O)[C@H](C)NC(=O)C[C@H](CC(C)C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,Active,0.062,uM,Scientific Literature,CHEMBL1156016,J. Med. Chem.,2009
+CHEMBL487106,O=C(CCCCCCC(=O)Nc1cccc(-c2cnnn2Cc2ccc(F)cc2)c1)NO,Active,0.0058,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3759059,COc1ccc(Br)c(/C=N/NC(=O)CCCCCC(=O)NO)c1,Active,0.0012,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3670677,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccccc3)cc2-c2ccc([N+](=O)[O-])cc2)cc1,Active,0.77,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3912782,COc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.3,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287017,CC(C)[C@H](NC(=O)c1csc(-c2cscn2)n1)C(=O)NCCCC(=O)NO,Inactive,1.639,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3670666,COc1ccc(-c2cc(-c3ccccc3)[nH]c2C(=O)NCc2ccc(C(=O)Nc3ccccc3N)cc2)cc1,Active,0.4513,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL471466,CN(Cc1ccc(C(=O)Nc2cc(-c3ccccc3)ccc2N)cc1)c1ccncc1,Inactive,5.384,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3916028,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Nc3c(F)cccc3F)CC2)nc1,Active,0.761,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3925137,Cc1cnc(C(=O)NCCCCC(=O)Nc2ccccc2N)s1,Inactive,6.954,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3932658,Nc1ccccc1NC(=O)CCCCCNC(=O)CCC(=O)c1cccs1,Active,0.694,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3670675,Nc1ccccc1NC(=O)c1ccc(CNC(=O)c2[nH]c(-c3ccc(O)cc3)cc2-c2ccoc2)cc1,Active,0.273,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3655949,Cc1cc(F)ccc1C(C)(C)Nc1ncc(C(=O)NO)cn1,Inactive,12.297,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4079625,O=C(CCCCCCC(=O)Nc1cc2ncnc(Nc3cccc(Br)c3)c2s1)NO,Active,0.03377,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4085511,COc1ccc(C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)NCc2ccc(C(=O)Nc3ccccc3N)cc2)cc1,Active,0.138,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL4068347,COc1ccc(C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)Nc2ccc(C(=O)Nc3ccccc3N)cc2)cc1,Active,0.227,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL3675758,O=C(CCCCCCN(c1ccccn1)c1ccc2ccccc2n1)NO,Active,0.062,uM,BindingDB Database,CHEMBL3639343,,2014
+CHEMBL3655981,O=C(NO)c1cnc(NC2CCOCC2)nc1,Inactive,1.172,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL485968,CC(NC(=O)c1ccc(C(=O)C(F)(F)F)s1)c1ccncc1,Inactive,1.5,uM,Scientific Literature,CHEMBL1152285,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3956946,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1C1CCCCC1,Inactive,1.302,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2046618,O=C(NCCCCN1CCc2nc(C(=O)NO)sc2C1)c1ccc(-c2ccccc2)s1,Inactive,4.89,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL1088735,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(Cc3ccc(O)cc3)nn2)c1)NO,Active,0.00166,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL523588,O=C(NCCc1ccccc1)c1ccc(C(=O)C(F)(F)F)s1,Inactive,1.7,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3656024,O=C(NO)c1cnc(NC2(c3cc(F)cc(F)c3)CCOCC2)nc1,Inactive,1.219,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655982,O=C(NO)c1cnc(NCc2cccs2)nc1,Active,0.361,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655957,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(Cl)c(Cl)c1,Active,0.212,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655907,Cc1cc(F)cc(Nc2ncc(C(=O)NO)cn2)c1,Active,0.193,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4093691,COc1ccc2c(C(=O)c3cc(OC)c(OC)c(OC)c3)cn(Cc3ccc(C(=O)NO)cc3)c2c1,Inactive,6.53,uM,Scientific Literature,CHEMBL4041521,Eur J Med Chem,2017
+CHEMBL3655922,O=C(NO)c1cnc(NCCc2ccccc2Cl)nc1,Active,0.495,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL498778,COc1ccc(CNC(=O)c2ccc(C(=O)C(F)(F)C(F)(F)F)s2)cc1,Inactive,2.9,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3939120,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCC(=O)NO,Active,0.086,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL4079790,CC(C)C[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.57,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3894753,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cnnc2ccccc12,Inactive,1.94,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4070891,COc1ccc(C(=O)N[C@H](COc2ccc(/C=C/C(=O)NO)cc2OC)Cc2c[nH]c3ccccc23)cc1,Active,0.0071,uM,Scientific Literature,CHEMBL4017444,Bioorg Med Chem,2017
+CHEMBL3655945,O=C(NO)c1cnc(NCCc2c(Cl)cccc2Cl)nc1,Inactive,1.746,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1767035,CNC(=O)/C(CCCCCCC(=O)Nc1cccc(Br)c1)=N\O,Inactive,89.2,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL4095398,O=C(CCCCN1C(=O)[C@H](CCC(=O)NO)N=C(c2ccccc2)c2ccccc21)NO,Inactive,2.57,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3356526,CN1C(=O)CCC[C@H]1C(=O)N[C@@H](CCCCCS)C(=O)Nc1ccccc1,Active,0.007,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL4072557,O=C(CCCCN1C(=O)[C@H](Cc2cnc[nH]2)N=C(c2ccccc2)c2ccccc21)NO,Inactive,1.32,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3098602,O=C(CCCCC[C@H](NC(=O)[C@H]1CCC(=O)N1)C(=O)Nc1cccc(C(F)(F)F)c1)NO,Active,0.002,uM,Scientific Literature,CHEMBL3352629,Bioorg. Med. Chem. Lett.,2015
+CHEMBL3217996,C#Cc1cccc(Nc2ncnc3cc(NC(=O)c4ccc(C(=O)Nc5ccccc5N)cc4)ccc23)c1,Active,0.5,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3601333,Cc1ccc(Nc2nccc3ccc(NC(=O)CCCCCCC(=O)NO)cc23)cc1,Active,0.004,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3356933,O=C1CCC[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)NCc2ccc(C(F)(F)F)cc2)N1,Active,0.475,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3910629,Nc1ccccc1NC(=O)CCCCCNC(=O)c1c[nH]c2ccccc12,Active,0.033,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3233687,O=C(/C=C/c1ccc(OC[C@H](Cc2c[nH]c3ccccc23)NC(=O)c2ccccc2)cc1)NO,Active,0.0141,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL3927558,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(N2CCOCC2)cc1,Active,0.103,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3942866,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2c(Cl)cccc2[nH]1,Active,0.028,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3808866,CNC(=O)CCCCC[C@H](NC(=O)c1cncs1)c1ncc(-c2ccc(-c3ccn[nH]3)cc2)[nH]1,Active,0.33,uM,Scientific Literature,CHEMBL3808289,ACS Med. Chem. Lett.,2016
+CHEMBL3655976,O=C(NO)c1cnc(NC2(c3ccco3)CC2)nc1,Active,0.345,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3656017,O=C(NO)c1cnc(NC2(c3ccc(F)cc3)CCCC2)nc1,Inactive,2.157,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4074187,O=C(O)C[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,12.6,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3655964,O=C(NO)c1cnc(NC2(c3cccc(F)c3)CC2)nc1,Active,0.233,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3356929,O=C1C[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.008,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL1767045,CNC(=O)/C(CCCCC[C@@H](C(=O)Nc1ccccc1)N(Cc1ccc(OC)cc1)C(=O)OC(C)(C)C)=N\O,Inactive,49.4,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL3973971,Cn1nc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c2ccccc21,Active,0.054,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3601780,Cc1ccc(Nc2nccc3ccc(NCc4ccc(/C=C/C(=O)NO)cc4)cc23)c(Br)c1,Active,0.63254,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3910502,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc(-c2ccccc2)n[nH]1,Active,0.181,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3913133,CC(C)(O)c1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.254,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655950,O=C(NO)c1cnc(NC2(c3ccccc3)CC2)nc1,Active,0.219,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3309286,CN1C(=O)CC(C)(C)c2cc(C(=O)NCCCCCCC(=O)NO)ccc21,Active,0.028,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL519668,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(-c3ccccc3)nn2)c1)NO,Active,0.0072,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL3915628,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1-c1cccc([N+](=O)[O-])c1)NO,Active,0.364,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3526942,Cc1[nH]c2cc(O)ccc2c1CCNCc1ccc(/C=C/C(N)=O)cc1,Inactive,3.3,uM,Scientific Literature,CHEMBL3526051,Drug Metab. Dispos.,2012
+CHEMBL3957512,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc2cc[nH]c12,Active,0.036,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4062908,CCc1ccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)cc1,Active,0.3569,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL3655997,O=C(NO)c1cnc(NC2(c3ccc4c(c3)OCO4)CC2)nc1,Active,0.049,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3947397,CC(C)Cc1sc(-c2cscn2)nc1C(=O)NCCCCC(=O)NO,Active,0.352,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3983635,CC1(C)C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=S)N1c1ccc(C(=O)NCCCCCC(=O)NO)c(F)c1,Inactive,1.83,uM,Scientific Literature,CHEMBL3862016,Bioorg Med Chem Lett,2016
+CHEMBL3760013,O=C(NCCCCCCS)c1cc(-c2cnccn2)n[nH]1,Active,0.023,uM,Scientific Literature,CHEMBL3758091,Eur. J. Med. Chem.,2016
+CHEMBL4079541,O=C(NO)c1ccc(CN(CCO)C(=O)Cc2ccccc2)cc1,Inactive,2.1,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL3976630,CCC(CC)(c1ccc(OCCCC(=O)NO)c(C)c1)c1ccc(OC[C@H](O)C(C)(C)C)c(C)c1,Inactive,9.83,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL3656001,O=C(NO)c1cnc(NC2(c3cc(F)cc(F)c3)CC2)nc1,Active,0.316,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3593247,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.00278,uM,Scientific Literature,CHEMBL3593208,Bioorg. Med. Chem.,2015
+CHEMBL3339032,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(N4CCCC4)c(F)c3)ncnc2s1)NO,Active,0.01405,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3934399,CCCOc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.135,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655958,O=C(NO)c1cnc(NC2(c3ccc(F)cc3)CC2)nc1,Active,0.12,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1165082,CCCCS(=O)(=O)NCCCC[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,725,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL472631,O=C(/C=C/c1ccc(/C=N/OCCN2CCOCC2)cc1)NO,Inactive,4.08,uM,Scientific Literature,CHEMBL1153969,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3287268,CC(C)/C=C/c1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.141,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL1767044,CNC(=O)/C(CCCCCCNC(=O)c1cc(-c2ccc(N)cc2)on1)=N/O,Inactive,4.44,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL4092753,Nc1ccccc1NC(=O)c1ccc(NC(=O)CCN2C(=O)C3(OCCCO3)c3cc(Br)ccc32)cc1,Active,0.019,uM,Scientific Literature,CHEMBL4033688,Bioorg Med Chem,2017
+CHEMBL561604,O=C(CCCCCC(c1c[nH]c2ccc([N+](=O)[O-])cc12)c1c[nH]c2ccc([N+](=O)[O-])cc12)NO,Active,0.018,uM,Scientific Literature,CHEMBL1153591,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3287263,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1CCOCc1ccccc1)NO,Active,0.159,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3938848,Nc1ccccc1NC(=O)/C=C/CCCNC(=O)c1ccc(F)cc1,Active,0.348,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3968223,Cn1cc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c2ccccc21,Active,0.056,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3110021,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1ccc(-c2cnco2)cc1,Inactive,12,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL3947603,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc(-c2ccsc2)on1,Active,0.752,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL55895,O=C(CCCc1ccccc1)NO,Inactive,2,uM,Scientific Literature,CHEMBL1671826,ACS Med. Chem. Lett.,2011
+CHEMBL3909922,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccc3c(c2N)OCO3)cc1,Inactive,2.254,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3946098,CN(C)c1cccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c1,Active,0.131,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655968,O=C(NO)c1cnc(NC2(c3ccccc3C(F)(F)F)CC2)nc1,Active,0.374,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3891741,CC(C)C1(Nc2ncc(C(=O)NO)cn2)CCN(C(=O)OCc2ccccc2)CC1,Active,0.879,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3962351,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cnc2ccccc2n1,Active,0.456,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4091731,NCCCC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.95,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3655992,O=C(NO)c1cnc(NC2(c3ccc(F)cc3F)CC2)nc1,Active,0.026,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3898287,Nc1ccc(-c2cccs2)cc1NC(=O)CCCCCCNC(=O)c1cccnc1,Inactive,20,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3233696,O=C(/C=C/c1ccc(OC[C@H](Cc2c[nH]c3ccccc23)NC(=O)Cc2ccccc2)cc1)NO,Active,0.143,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL518821,O=C(c1ccc(-c2nc(COc3ccc(-c4nnco4)cc3)no2)s1)C(F)(F)F,Active,0.38,uM,Scientific Literature,CHEMBL1152136,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3287250,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.125683333,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL469134,O=C(CCCCc1cc(C(=O)NO)no1)Nc1nc(-c2ccccc2)cs1,Active,0.03,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL2012815,CCC(=O)CCCCC[C@@H]1NC(=O)[C@H](C)NC(=O)C[C@H](CC(C)C)NC(=O)[C@H](Cc2cccc3ccccc23)NC1=O,Active,0.032,uM,Scientific Literature,CHEMBL4052703,Bioorg Med Chem Lett,2017
+CHEMBL3918869,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Inactive,4.307,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL1076939,COc1cc(-n2cc(-c3cccc(NC(=O)CCCCCCC(=O)NO)c3)nn2)ccc1F,Active,0.00339,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL3655932,COc1cc(F)ccc1CNc1ncc(C(=O)NO)cn1,Active,0.303,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3935992,O=C(NO)c1cnc(NC2(c3ccccc3)CCC(F)(F)CC2)nc1,Inactive,4.38,uM,BindingDB Database,CHEMBL3886954,,2016
+CHEMBL2336043,CCCC(CCC)C(=O)N[C@H](COc1ccc(/C=C/C(=O)NO)cc1OC)Cc1c[nH]c2ccccc12,Active,0.14375,uM,Scientific Literature,CHEMBL2331319,ACS Med. Chem. Lett.,2013
+CHEMBL3655978,O=C(NO)c1cnc(NC2(c3cccc(F)c3)CCCCC2)nc1,Inactive,11.223,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3758281,O=C(CCCCCC(=O)N/N=C/c1ccc(-c2ccncc2)cc1)NO,Active,0.0018,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL550573,Cc1ccc(C(=O)NCC(=O)NCCC(=O)Nc2ccccc2N)cc1,Inactive,4.3,uM,Scientific Literature,CHEMBL1151874,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3311472,O=C(CCCCCCNC(=O)c1ccc2c(c1)CCC(=O)N2)NO,Active,0.085,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL235191,CC(=O)Nc1ccc(C(=O)Nc2ccccc2N)cc1,Inactive,1.2,uM,Scientific Literature,CHEMBL3739297,Bioorg. Med. Chem. Lett.,2016
+CHEMBL253868,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc(CNC(=O)OCc2cccnc2)cc1,Inactive,6.18,uM,Scientific Literature,CHEMBL1140803,Bioorg. Med. Chem. Lett.,2008
+CHEMBL4074830,O=C(CCCNC(=O)C[C@@H]1N=C(c2ccccc2)c2ccccc2NC1=O)NO,Inactive,3.21,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3978857,CS(=O)(=O)c1ccc([S+]([O-])NCCCCCC(=O)Nc2ccccc2N)cc1,Inactive,1.255,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL473271,Nc1ccc(-c2ccccc2F)cc1NC(=O)c1ccc(CN2CCC3(CCCN3)CC2)cc1,Inactive,17.39,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL1163778,C[C@H](CCCCC(=O)NO)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,14.5,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL3356920,O=C1CC[C@H](C(=O)N[C@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.138,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3664027,Nc1cc(F)ccc1NC(=O)c1cnc2c(ccn2CCN2CCOCC2)c1,Active,0.193,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3526395,C[C@@]12Nc3ccccc3[C@]1(O)CCN2Cc1ccc(/C=C/C(=O)NO)cc1,Active,0.18,uM,Scientific Literature,CHEMBL3526051,Drug Metab. Dispos.,2012
+CHEMBL3969656,COc1ccc2c(c1)cc(C(=O)NCCCCCC(=O)Nc1ccccc1N)n2C,Active,0.108,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655942,O=C(NO)c1cnc(NC(c2ccccc2)c2ccccc2)nc1,Active,0.237,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4070647,CC(C)(C)Oc1ccc(C[C@@H]2N=C(c3ccccc3)c3ccccc3N(CCCCC(=O)NO)C2=O)cc1,Active,0.85,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3656013,O=C(NO)c1cnc(NC2(c3ccc(F)cc3Cl)CC2)nc1,Active,0.058,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3656004,O=C(NO)c1cnc(NC2(c3ccc(C(F)(F)F)cc3)CC2)nc1,Active,0.344,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3923995,Cc1cnc(-c2nc(C(=O)NCCCCC(=O)NO)c(CC(C)C)s2)s1,Active,0.262,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL4083033,O=C(CCCCN1C(=O)[C@H](Cc2ccc(O)cc2)N=C(c2ccccc2)c2ccccc21)NO,Inactive,5.29,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL497332,CN(Cc1ccc2nccnc2c1)C(=O)c1ccc(C(=O)C(F)(F)F)s1,Active,0.67,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3972758,CN(C(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1)c1ccccc1,Inactive,1.624,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3655938,O=C(NO)c1cnc(NCc2ccccc2-c2ccccc2)nc1,Active,0.631,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL2063395,CCC[C@@H]1NC(=O)[C@H](C)NC(=O)C[C@H](CC(C)C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,Inactive,1.44,uM,Scientific Literature,CHEMBL4052703,Bioorg Med Chem Lett,2017
+CHEMBL473479,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc(C(=O)N2CCC3(CCCN3)CC2)cc1,Inactive,4.33,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL569446,CC(C)C[C@H]1CC(=O)NC(C)(C)C(=O)N[C@@H](CCCCCC(=O)O)C(=O)N[C@@H](Cc2cccc3ccccc23)C(=O)N1,Active,0.97,uM,Scientific Literature,CHEMBL1156016,J. Med. Chem.,2009
+CHEMBL3940561,CN1CCN(c2ccc(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc2)CC1,Active,0.094,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3943942,COCCOc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.642,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3955013,CC1(C)C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=S)N1c1ccc(C(=O)Nc2ccccc2N)c(F)c1,Inactive,5.4,uM,Scientific Literature,CHEMBL3862016,Bioorg Med Chem Lett,2016
+CHEMBL3339020,O=C(CCCCCCC(=O)Nc1cc2c(Nc3cccc(Cl)c3)ncnc2s1)NO,Active,0.00646,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3655999,O=C(NO)c1cnc(NC2(c3ccccc3)CCC2)nc1,Active,0.521,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652236,O=C(NO)c1cnc(Nc2c(F)c(F)cc(F)c2F)nc1,Active,0.6,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655931,O=C(NO)c1cnc(NCc2c(Cl)cccc2Cl)nc1,Active,0.401,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3339017,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(Br)cc3F)ncnc2s1)NO,Active,0.01188,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL561209,COc1ccc(-c2ccc(/C=C/C(=O)NO)cc2)cc1,Inactive,84.5,uM,Scientific Literature,CHEMBL3232764,Eur. J. Med. Chem.,2014
+CHEMBL3752134,O=C(/C=C/c1ccc(CNc2nccc(-c3cccnc3)n2)cc1)NO,Active,0.113,uM,Scientific Literature,CHEMBL3751819,MedChemComm,2015
+CHEMBL3891027,CCCCCC[C@@H](CCCCCC(=O)Nc1ccccc1)C(=O)NO,Inactive,530,uM,Scientific Literature,CHEMBL3877334,ACS Med Chem Lett,2017
+CHEMBL3961784,Nc1ccccc1NC(=O)/C=C/CCCNC(=O)c1ccc(N2CCOCC2)cc1,Active,0.485,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3670680,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3cccnc3)cc2-c2ccc(F)cc2)cc1,Inactive,5.83,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL1093359,Cc1ccc(NC(=O)CCCCC(=O)NO)cc1C,Active,0.056,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3915015,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc2cn[nH]c12,Active,0.099,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3770531,O=C(NCCCCCC(=O)C(F)(F)F)c1nc(-c2nccs2)sc1C1CC1,Active,0.15145,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL4083761,CC(C)(C)OC(=O)n1c(C[C@@H]2N=C(c3ccccc3)c3ccccc3N(CCCCC(=O)NO)C2=O)cc2ccccc21,Inactive,5.21,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL1076794,Cc1ccccc1NC(=O)CCCCC(=O)NO,Inactive,1.348,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3656003,Cc1cccc(C2(Nc3ncc(C(=O)NO)cn3)CC2)c1,Active,0.099,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL490018,CC(/C=C/c1ccccc1)=C\C(=O)NCCCCCC(=O)NO,Active,0.0053,uM,Scientific Literature,CHEMBL1137690,Eur. J. Med. Chem.,2009
+CHEMBL3968356,CC(C)(C)OC(=O)NCc1nc(-c2nc(C(=O)NCCCCCC(=O)NO)cs2)cs1,Active,0.174,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL326433,O=C(CCCCCCCS)Nc1ccccc1,Active,0.11,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL468595,Nc1cccc(-c2cc(C(=O)NCCCCCCC(=O)NO)no2)c1,Active,0.00404,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3960647,CCCc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.127,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3339027,CCN(CC)c1ccc(Nc2ncnc3sc(NC(=O)CCCCCCC(=O)NO)cc23)cc1,Active,0.03972,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3309291,CC1(C)CC(=O)Nc2ccc(C(=O)NCc3ccc(/C=C/C(=O)NO)cc3)cc21,Active,0.065,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL235674,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc(CNC(=O)OCc2cccnc2)cc1,Inactive,27.71,uM,Scientific Literature,CHEMBL1140803,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3900619,Cc1nc(-c2ccccn2)sc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.185,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3959685,C=Cc1sc(-c2nccs2)nc1C(=O)NCCCNC(=O)CS,Inactive,2.245,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3655959,O=C(NO)c1cnc(NC2(c3ccccc3F)CC2)nc1,Active,0.022,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3601776,O=C(COc1ccc(C(=O)NO)cc1)Nc1ccc2ccnc(Nc3ccc4ccccc4c3)c2c1,Active,0.27574,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3655975,O=C(NO)c1cnc(NC2(c3cccs3)CC2)nc1,Inactive,4.252,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3970532,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.3,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655910,O=C(NO)c1cnc(Nc2cc(Cl)cc(OC(F)(F)F)c2)nc1,Active,0.745,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3891420,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Cc3c[nH]c4ccccc34)CC2)nc1,Active,0.024,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3934705,O=C(CCCNC(=O)c1nc(-c2nccs2)sc1C1CC1)NO,Inactive,3.818,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3218000,C#Cc1cccc(Nc2ncnc3ccc(OCc4ccc(C(=O)Nc5ccccc5N)cc4)cc23)c1,Active,0.55,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL1091474,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(-c3ccc(F)cc3)nn2)c1)NO,Active,0.0181,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL485771,O=C(c1ccc(C(=O)C(F)(F)F)s1)N1CCC(c2nnc(-c3ccccc3)o2)CC1,Inactive,2.8,uM,Scientific Literature,CHEMBL1152285,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3664037,Nc1ccc(F)cc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2c1,Active,0.308,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL524024,O=C(NCC1CCCCC1)c1cnc(C(=O)C(F)(F)F)s1,Inactive,7.6,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL4079609,O=C(O)CC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,8.71,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3987006,Cc1ccc2[nH]c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc2c1,Active,0.027,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4066043,O=C(NO)c1ccc(CC(=O)N(CCO)c2ccccc2)cc1,Inactive,1.7,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL3339031,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(N4CCCCC4)c(F)c3)ncnc2s1)NO,Active,0.00819,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3920131,Nc1cc(F)ccc1NC(=O)CCCCCNC(=O)c1nccs1,Inactive,2.3,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287022,Cc1nc(-c2nc(C(=O)NCCCCC(=O)NO)cs2)cs1,Active,0.3825,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3655990,O=C(NO)c1cnc(NC2(c3cccc(C(F)(F)F)c3)CC2)nc1,Active,0.099,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3923499,Cc1ccc(NC(=O)N2CCC(Nc3ncc(C(=O)NO)cn3)(c3ccccc3)CC2)cc1,Active,0.693,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3909083,Cc1ccc2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)[nH]c2c1,Active,0.032,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3907413,CC(C)C[C@H](C(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1)c1ccccc1,Active,0.914,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3975640,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2cccc(F)c2[nH]1,Active,0.041,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3109983,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1ccc2c(c1)CN(CC(F)(F)F)C2=O,Inactive,16,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL2046616,O=C(/C=C/c1ccccc1)NCCCCN1CCc2nc(C(=O)NO)sc2C1,Inactive,26.39,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3893715,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccsc1,Active,0.233,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4071528,N#Cc1cccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.0198,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL3948150,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2ccccc2o1,Active,0.308,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3758735,O=C(CCCCCC(=O)N/N=C/c1ccc(-c2cccs2)cc1)NO,Active,0.0016,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3735995,C[C@]12CC[C@@H]3c4ccc(O)cc4C[C@@H](CCCCCCCCCCC(=O)Nc4ccccc4N)[C@H]3[C@@H]1CC[C@@H]2O,Inactive,3.18,uM,Scientific Literature,CHEMBL3734665,Bioorg. Med. Chem.,2015
+CHEMBL4098136,COc1ccc(C(=O)N[C@H](COc2ccc(/C=C/C(=O)Nc3ccccc3N)cc2)Cc2c[nH]c3ccccc23)cc1,Active,0.261,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL3655941,O=C(NO)c1cnc(NCCc2ccccc2-c2ccccc2)nc1,Active,0.873,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3287020,Cc1nc(-c2nc(C(=O)N[C@H](C(=O)NCCCC(=O)NO)C(C)C)cs2)cs1,Inactive,1.5785,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3593413,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2cccc(n2)CNC(=O)C[C@@H](/C=C/CCS)NC1=O,Active,0.0425,uM,Scientific Literature,CHEMBL3593208,Bioorg. Med. Chem.,2015
+CHEMBL3984296,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2c(c1)NC(=O)C2,Active,0.559,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3929319,CC(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1,Active,0.84,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3309300,CC1(C)CC(=O)Nc2ccc(C(=O)NC[C@H]3CC[C@@H](CCC(=O)NO)CC3)cc21,Active,0.087,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3929537,CCC(CC)(c1ccc(OCC(=O)NO)c(C)c1)c1cc(C)c(CCC(O)C(C)(C)C)s1,Inactive,30.5,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL4069828,C[C@@H](O)[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,1.8,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL405072,Nc1ccccc1NC(=O)c1ccccc1,Inactive,2.8,uM,Scientific Literature,CHEMBL1143185,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3907690,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccnnc1,Inactive,2.377,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3978733,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2cc(Cl)ccc2[nH]1,Active,0.02,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1094707,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(C3CCCCC3)nn2)c1)NO,Active,0.0037,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL3984885,CC(C)=Cc1sc(-c2nccs2)nc1C(=O)NCCCNC(=O)CS,Active,0.315,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL4102833,O=C(CCCC(CCC(=O)Nc1ccccc1)Cc1ccccc1)NO,Inactive,5.8,uM,Scientific Literature,CHEMBL4052702,Bioorg Med Chem Lett,2017
+CHEMBL3985895,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(-n2cccc2)cc1,Active,0.185,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3970364,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc(C(F)(F)F)c1,Active,0.4,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3417211,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(=O)c1cccc(C(=O)Nc3ccccc3N)c1)CC2,Inactive,10.78,uM,Scientific Literature,CHEMBL3414494,Eur. J. Med. Chem.,2015
+CHEMBL3356523,O=C1CCC[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.01,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3969468,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(F)cc1,Active,0.7,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3655926,O=C(NO)c1cnc(NCCc2c[nH]c3ccccc23)nc1,Active,0.107,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3973794,CCOc1cccc2[nH]c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc12,Active,0.072,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4113844,CC(C)C[C@@H](C(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1)c1ccccc1,Active,0.114,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3655925,O=C(NO)c1cnc(NCCc2cccc(Cl)c2)nc1,Active,0.13,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3981202,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc2c(c1)cc(C1CC1)n2CCN1CCOCC1,Active,0.689,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3317810,C[C@@]12CSC(=N1)c1csc(n1)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](Cc1ccccc1)NC2=O,Active,0.00068,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3902539,O=C(CCCCNC(=O)c1nc(-c2nc3c(s2)CCCC3)sc1C1CC1)NO,Active,0.063,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL471043,COC(=O)c1ccc(CO/N=C/c2ccc(/C=C/C(=O)NO)cc2)cc1,Active,0.659,uM,Scientific Literature,CHEMBL1153969,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3655947,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(F)cc1F,Inactive,1.313,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3656008,COc1ccc(Cl)cc1C1(Nc2ncc(C(=O)NO)cn2)CC1,Active,0.782,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL1631914,COc1cc2cc(c1)COc1ccccc1NC(=O)[C@H](CCCCCC(=O)NO)OC/C=C\2,Active,0.0557,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL3960364,O=C(CCCCNC(=O)c1nc(-c2nc3c(s2)CCCCCC3)sc1C1CC1)NO,Active,0.176,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL496511,CN(Cc1ccccc1)Cc1ccc(C(=O)C(F)(F)F)s1,Inactive,4.6,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3356527,O=C(Nc1ccccc1)[C@H](CCCCCS)NC(=O)[C@@H]1CCCNC1=O,Active,0.003,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3897087,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(OC(F)(F)F)cc1,Active,0.133,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3975964,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(F)cc1F,Active,0.486,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1093041,CCc1cccc(NC(=O)CCCCC(=O)NO)c1,Active,0.035,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3417213,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NCc1ccc(C(=O)Nc3ccccc3N)cc1)CC2,Inactive,11.23,uM,Scientific Literature,CHEMBL3414494,Eur. J. Med. Chem.,2015
+CHEMBL469275,CC(C)(C)OC(=O)Nc1cccc(-c2cc(C(=O)NCCCCC(=O)NO)no2)c1,Active,0.0836,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3098691,O=C(CCCCC[C@H](NC(=O)[C@@H]1CCC(=O)N1)C(=O)Nc1ccccc1)NO,Active,0.062,uM,Scientific Literature,CHEMBL3352629,Bioorg. Med. Chem. Lett.,2015
+CHEMBL3217993,Nc1ccccc1NC(=O)c1ccc(COc2ccc3ncnc(Nc4cccc(Br)c4)c3c2)cc1,Active,0.51,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL4104247,O=C(NO)c1ccc(CN2c3ccccc3S(=O)(=O)C[C@H]3CCCC[C@H]32)cc1,Inactive,24,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL3968125,CCC(CC)(c1ccc(OCC(O)C(C)(C)C)c(C)c1)c1cc(C)c(CCC(=O)NO)s1,Inactive,47.3,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL3235790,N#CCc1ccc(-c2ccc(/C=C/C(=O)NO)cc2Cl)cc1C12CC3CC(CC(C3)C1)C2,Inactive,340,uM,Scientific Literature,CHEMBL3232764,Eur. J. Med. Chem.,2014
+CHEMBL470843,O=C(/C=C/c1ccc(-c2cc(CN3CCOCC3)on2)cc1)NO,Inactive,3.14,uM,Scientific Literature,CHEMBL1153969,Bioorg. Med. Chem. Lett.,2009
+CHEMBL4083750,Cc1cc(F)ccc1Nc1ncnc2cc(NC(=O)CCCCCCC(=O)NO)sc12,Active,0.19662,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL2390996,O=C(/C=C/c1ccc2c(c1)C(=O)CC1(CCN(CCc3ccccc3)CC1)O2)NO,Active,0.13,uM,Scientific Literature,CHEMBL2390828,Eur. J. Med. Chem.,2013
+CHEMBL3949667,COc1cccc2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)[nH]c12,Active,0.055,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287259,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1-c1ccc(F)cc1Cl)NO,Active,0.5885,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3670669,COc1ccc(-c2cc(-c3ccccc3)[nH]c2C(=O)NCc2ccc(C(=O)Nc3ccccn3)cc2)cc1,Active,0.0461,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3339015,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(F)cc3F)ncnc2s1)NO,Active,0.01685,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3110016,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1cccc(-c2ncc(F)cn2)c1,Inactive,26,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL1094710,O=C(CCCCCCC(=O)Nc1cccc(-n2cc(C3CCCCC3)nn2)c1)NO,Active,0.0053,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL3980389,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2c(OC(F)F)cccc2[nH]1,Active,0.052,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1672332,CCCC(=O)NO,Inactive,10,uM,Scientific Literature,CHEMBL1671826,ACS Med. Chem. Lett.,2011
+CHEMBL1631912,O=C(CCCCCC1OCCCCCCCOc2ccccc2NC1=O)NO,Active,0.24,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL3947446,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccco1,Active,0.331,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL564382,O=C(/C=C/c1ccc(C(c2c[nH]c3ccccc23)c2c[nH]c3ccccc23)cc1)NO,Active,0.44,uM,Scientific Literature,CHEMBL1153591,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3655991,COc1ccc(C2(Nc3ncc(C(=O)NO)cn3)CCCCC2)cc1,Inactive,3.944,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3287019,Cc1nc(-c2nc(C(=O)N[C@H](C(=O)NCCC(=O)NO)C(C)C)cs2)cs1,Inactive,2.219,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL2431901,Cn1cccc1C(=O)N1CCc2cc(C(=O)NO)ccc2C1,Inactive,46,uM,Scientific Literature,CHEMBL3351349,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3339019,O=C(CCCCCCC(=O)Nc1cc2c(Nc3cccc(Cl)c3F)ncnc2s1)NO,Active,0.01463,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL4101744,O=C(CCCCCCC(=O)Nc1cc2ncnc(Nc3ccc(F)cc3F)c2s1)NO,Active,0.09987,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL1091487,COc1ccc(NC(=O)CCCCC(=O)NO)cc1,Active,0.137,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3287267,C=Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.319333333,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3655933,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccccc1,Inactive,2.214,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3960543,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2O)cc1,Active,0.22,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4090313,Nc1ccccc1NC(=O)c1ccc(CNC(=O)CN2C(=O)C3(OCCCO3)c3cc(Cl)ccc32)cc1,Active,0.096,uM,Scientific Literature,CHEMBL4033688,Bioorg Med Chem,2017
+CHEMBL235842,CC(=O)Nc1ccc(C(=O)Nc2cc(-c3cccs3)ccc2N)cc1,Inactive,5.199,uM,Scientific Literature,CHEMBL1138236,J. Med. Chem.,2007
+CHEMBL3218001,C#Cc1cccc(Nc2ncnc3ccc(S(=O)(=O)n4ccc(/C=C/C(=O)Nc5ccccc5N)c4)cc23)c1,Active,0.84,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3905310,Nc1ccccc1NC(=O)CCCCCNC(=O)c1n[nH]c2ccccc12,Active,0.092,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3951862,CNC(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1,Active,0.987,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3339025,Cc1ccc(Nc2ncnc3sc(NC(=O)CCCCCC(=O)NO)cc23)cc1C,Active,0.01474,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3953058,COc1ccc(C(=O)NCCC/C=C/C(=O)Nc2ccccc2N)cc1,Active,0.228,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3774414,COc1ccc(N(C)c2nc(C)nc3ccccc23)cc1OCCCC(=O)NO,Active,0.439,uM,Scientific Literature,CHEMBL3774354,J. Med. Chem.,2016
+CHEMBL4087897,COc1ccc(-c2cc(-c3ccoc3)c(C(=O)NCc3ccc(C(=O)NO)cc3)[nH]2)cc1,Active,0.08,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL3309298,CC1(C)CC(=O)Nc2ccc(C(=O)NC[C@H]3CC[C@H](CCC(=O)NO)CC3)cc21,Active,0.089,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL468842,CC(=O)Nc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)no2)cc1,Active,0.018,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL3593627,O=C(CCN1C(=O)C2(OCCCO2)c2cc(Br)ccc21)Nc1ccc(C(=O)NO)cc1,Active,0.02501,uM,Scientific Literature,CHEMBL3593221,Bioorg. Med. Chem.,2015
+CHEMBL435160,O=C(CCCCCC(Cc1ccccc1)C(=O)NO)Nc1ccccc1,Inactive,91,uM,Scientific Literature,CHEMBL3877334,ACS Med Chem Lett,2017
+CHEMBL3670676,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccccc3)cc2-c2ccc(F)c(F)c2)cc1,Active,0.732,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3907742,C=CCc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.847,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3925574,C/C=C/c1sc(-c2nccs2)nc1C(=O)NCCCNC(=O)CS,Active,0.728,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3952593,O=C(CCCCNC(=O)c1nc(-c2ncc([N+](=O)[O-])s2)sc1C1CC1)NO,Inactive,2.913,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3233708,O=C(/C=C/c1ccc(OC[C@H](Cc2c[nH]c3ccccc23)NCc2ccc(Cl)cc2)cc1)NO,Active,0.047,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL3622729,C/C=C1\NC(=O)c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](C(C)C)NC1=O,Active,0.00767,uM,Scientific Literature,CHEMBL3621100,J. Med. Chem.,2015
+CHEMBL2204664,CC(C)(C)C(CCCCC(=O)NO)CC(=O)Nc1ccccc1,Inactive,5.4,uM,Scientific Literature,CHEMBL2203062,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3356915,O=C(Nc1ccccc1)[C@H](CCCCCS)NC(=O)[C@H]1CCCNC1=O,Active,0.005,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3961745,COc1cccc2[nH]c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc12,Active,0.036,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3356916,Cc1cccc(NC(=O)[C@H](CCCCCS)NC(=O)[C@@H]2CCCC(=O)N2)c1,Active,0.001,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3335283,O=C(CCCCc1ccn(Cc2cccc(-c3ccccc3)c2)n1)NO,Active,0.068,uM,Scientific Literature,CHEMBL3352093,Eur. J. Med. Chem.,2014
+CHEMBL3948651,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccno1,Inactive,2.323,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL585164,[N-]=[N+]=NCc1cc(COc2ccc(NC(=O)CCCCCCC(=O)NO)cc2)cc(N=[N+]=[N-])c1,Inactive,1.48,uM,Scientific Literature,CHEMBL2169804,Bioorg. Med. Chem. Lett.,2012
+CHEMBL2417784,Cc1onc(-c2ccccc2)c1C(=O)NCCCCCNC(=O)[C@@H](C)S,Inactive,15,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL3758901,O=C(/C=C/c1ccc2c(c1)C(=O)CC1(CCN(Cc3ccccc3)C1)O2)NO,Active,0.028,uM,Scientific Literature,CHEMBL3758162,Eur. J. Med. Chem.,2016
+CHEMBL4084736,O=C(CCCCN1C(=O)[C@@H](CS)N=C(c2ccccc2)c2ccccc21)NO,Active,0.18,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3917862,Nc1ccccc1NC(=O)CCCCNC(=O)C1=NN=C(c2ccccc2)C1,Inactive,1.303,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2046608,C=CCCC(=O)Nc1ccc(C(=O)N2CCc3nc(C(=O)NO)sc3C2)cc1,Inactive,9.38,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3670664,COc1ccc(-c2cc(-c3ccccc3)[nH]c2C(=O)Nc2cccc(CC(=O)NO)c2)cc1,Active,0.298,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL2046619,C=CCCC(=O)Nc1ccc(C(C)N2CCc3nc(C(=O)NO)sc3C2)cn1,Inactive,19.2,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3339023,Cc1ccc(Nc2ncnc3sc(NC(=O)CCCCCC(=O)NO)cc23)cc1,Active,0.00933,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3914604,Nc1ccc(-c2ccncc2)cc1NC(=O)c1cnc2c(c1)cc(C1CC1)n2CCN1CCOCC1,Active,0.247,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3912702,COc1ccc(C(=O)NCCCCC(=O)Nc2ccccc2N)c(OC)n1,Inactive,9.191,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3317816,CC(C)(C)OC(=O)NCC[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.0042,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3110001,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1ccc2nccnc2c1,Inactive,8.9,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL4086244,O=C(CCCCCCC(=O)Nc1cc2ncnc(Nc3cccc(F)c3)c2s1)NO,Active,0.06451,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL3919448,O=C(NO)c1ccc(CNC(=O)c2nc(-c3nc4c(s3)CCCC4)sc2C2CC2)cc1,Active,0.075,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3655967,O=C(NO)c1cnc(NC2(c3ccccc3Cl)CC2)nc1,Active,0.041,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL511749,CC(C)(C)OC(=O)Nc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)no2)cc1,Active,0.09521,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL4061259,O=C(CCCNC(=O)CC[C@@H]1N=C(c2ccccc2)c2ccccc2NC1=O)NO,Inactive,5.17,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3656011,Cc1cc(C2(Nc3ncc(C(=O)NO)cn3)CC2)ccc1F,Active,0.064,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3921050,COc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.086,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL556332,O=C(/C=C/c1ccc(-c2ccc(O)cc2)cc1)NO,Inactive,4.57,uM,Scientific Literature,CHEMBL3232764,Eur. J. Med. Chem.,2014
+CHEMBL484489,O=C(/C=C/c1ccc(Cl)cc1F)NCCCCCC(=O)NO,Active,0.0049,uM,Scientific Literature,CHEMBL1137690,Eur. J. Med. Chem.,2009
+CHEMBL3655996,Cc1ccccc1C1(Nc2ncc(C(=O)NO)cn2)CC1,Active,0.119,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655940,O=C(NO)c1cnc(NC23CC4CC(CC(C4)C2)C3)nc1,Inactive,1.085,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3883667,Cc1ccc(-c2cc(C(=O)NCCCCCC(=O)NO)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,Active,0.191,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3827993,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)C1Cc2ccccc2CO1,Inactive,25.9,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3356524,O=C1CCC[C@H](C(=O)N[C@@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.006,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL1631916,COc1cc2cc(c1)COc1ccccc1NC(=O)C(CCCCCC(=O)NO)OCCC2,Active,0.246,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL3655934,O=C(NO)c1cnc(NCc2c(CO)cccc2CO)nc1,Active,0.382,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655936,O=C(NO)c1cnc(NCc2ccc(F)c(Cl)c2)nc1,Active,0.043,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3356525,O=C1CCC[C@@H](C(=O)N[C@H](CCCCCS)C(=O)Nc2ccccc2)N1,Inactive,17.1,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL513568,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc(N2CCC3(CCNC3)CC2)nc1,Inactive,1260,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3670665,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccc(O)cc3)cc2-c2ccsc2)cc1,Active,0.5123,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3983993,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(CO)cc1,Active,0.315,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3347516,Nc1ccccc1NC(=O)CCCCCCC(=O)Nc1ccccc1N,Active,0.988,uM,Scientific Literature,CHEMBL3390834,MedChemComm,2012
+CHEMBL3958748,Nc1ccc(-c2ccccc2)nc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2c1,Active,0.798,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3919822,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2ccccc2[nH]1,Active,0.033,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3936525,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1F,Active,0.184,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3356932,O=C(CCCCCCS)NCc1ccc(C(F)(F)F)cc1,Inactive,2.71,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3655924,O=C(NO)c1cnc(NCCc2ccccc2)nc1,Active,0.326,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4072618,CSCC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.43,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3828396,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)C1CCOCC1,Inactive,1.09,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL483892,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(Cc3ccc(F)cc3)nn2)c1)NO,Active,0.004,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3664029,Nc1cc(F)ccc1NC(=O)c1cnc2c(C3CC3)c(N3CCNCC3)ccc2c1,Active,0.057,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3759982,O=C(CCCCCC(=O)N/N=C/c1ccc(-c2ccccc2)cc1)NO,Active,0.0034,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3915917,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccc(F)cc2O)cc1,Active,0.07,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3983762,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccnc(N2CCCCC2)c1,Active,0.979,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3356938,O=C(CCCCCCS)N1CCc2ccccc2C1,Inactive,35.8,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL519746,O=C(CCCCCCC(=O)Nc1ccc(-c2cnnn2Cc2ccccc2)cc1)NO,Active,0.0097,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3110005,O=C(NO)C1[C@H](c2ccccc2)[C@H]1c1ccccc1,Inactive,33,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL3356928,O=C(Nc1ccccc1)[C@H](CCCCCS)NC(=O)[C@H]1C(=O)NC[C@H]1c1ccccc1,Active,0.072,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL1093357,Cc1ccc(C)c(NC(=O)CCCCC(=O)NO)c1,Inactive,1.346,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3311471,O=C(CCCCCCNC(=O)c1ccc2[nH]c(=O)ccc2c1)NO,Active,0.18,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL1767043,CNC(=O)/C(CCCCCCNC(=O)c1cc(-c2cccc(N)c2)on1)=N/O,Inactive,1.88,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL466215,COc1ccc2[nH]c(C)c(CC(=O)N[C@@H](CCCCCC(N)=O)c3ncc(-c4ccc5ccccc5c4)[nH]3)c2c1,Active,0.25,uM,Scientific Literature,CHEMBL1136904,Bioorg. Med. Chem. Lett.,2009
+CHEMBL2442791,COc1cc([C@@H]2c3cc4c(cc3[C@@H](Nc3ccc(OCCCC(=O)NO)cc3)[C@H]3COC(=O)[C@@H]32)OCO4)cc(OC)c1O,Active,0.193,uM,Scientific Literature,CHEMBL2439983,Bioorg. Med. Chem.,2013
+CHEMBL3601334,O=C(CCCCCCC(=O)Nc1ccc2ccnc(Nc3ccc4ccccc4c3)c2c1)NO,Active,0.00542,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL2046622,CC(c1ccc(NC(=O)c2ccc(-c3ccccc3)s2)nc1)N1CCc2nc(C(=O)NO)sc2C1,Inactive,1.94,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL1087053,Nc1ccccc1NC(=O)CCCCCCC(=O)Nc1cccc(-n2cc(-c3ccccc3)nn2)c1,Active,0.122,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL3652240,O=C(NO)c1cnc(Nc2c(Cl)cccc2Cl)nc1,Inactive,16.328,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL499776,Nc1ccccc1NC(=O)c1ccc(N2CCC3(CCNC3)CC2)nc1,Inactive,340,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3655972,O=C(NO)c1cnc(NC2(c3ccccc3)CCOCC2)nc1,Inactive,2.272,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3771366,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)C(F)(F)F,Active,0.11345,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL3664038,Nc1ccc(F)cc1NC(=O)c1ccc2nc(N3CCNCC3)ccc2c1,Active,0.315,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3655948,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccccc1F,Inactive,1.26,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3934237,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Nc3cccc(F)c3)CC2)nc1,Inactive,1.081,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL505961,Cc1c(CNc2ccc(C(=O)Nc3cc(-c4ccccc4)ccc3N)cc2)cnn1C,Inactive,19.32,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL472251,Nc1ccc(-c2cc[nH]n2)cc1NC(=O)c1ccc(N2CCC3(CCNC3)CC2)nc1,Inactive,5500,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3901737,Nc1ccccc1NC(=O)C/C=C/CCNC(=O)c1cccc(Cl)c1,Active,0.953,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3939518,O=C(CCCCCCCNC(=O)c1nc(-c2nccs2)sc1C1CC1)NO,Active,0.064,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3964140,CN(C)c1ccc2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)[nH]c2c1,Active,0.115,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3977346,O=C(NO)c1ccc(CNC(=O)c2nc(-c3nccs3)sc2C2CC2)cc1,Active,0.03,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3916160,Cc1ccc(C(=O)NCC/C=C/CC(=O)Nc2ccccc2N)cc1,Inactive,1.564,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3961016,CCOc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.338,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3977839,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cscn1,Active,0.841,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3656006,O=C(NO)c1cnc(NC2(c3ccc(C(F)(F)F)c(F)c3)CC2)nc1,Active,0.07,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3356917,Cc1ccc(NC(=O)[C@H](CCCCCS)NC(=O)[C@@H]2CCCC(=O)N2)cc1,Active,0.003,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3656007,COc1ccc(C2(Nc3ncc(C(=O)NO)cn3)CC2)cc1OC,Active,0.113,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL4082812,Cc1ccccc1Nc1ncnc2cc(NC(=O)CCCCCCC(=O)NO)sc12,Active,0.09879,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL3899844,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc2nc(N3CCNCC3)cnc2c1,Active,0.071,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3655944,C[C@@H](Nc1ncc(C(=O)NO)cn1)c1ccccc1,Active,0.051,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3961801,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2cc(F)ccc2[nH]1,Active,0.057,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3923298,COc1ccc2[nH]c(C(=O)NCCCCC(=O)Nc3ccccc3N)cc2c1,Active,0.878,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3983889,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(C(F)F)cc1,Active,0.158,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4103456,COc1ccc(C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.0429,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL3317813,C[C@@]12CSC(=N1)c1csc(n1)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](CC(=O)O)NC2=O,Active,0.1,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3986857,COc1ccc2c(C(=O)NCCCCCC(=O)Nc3ccccc3N)c[nH]c2c1,Active,0.038,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3593411,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2ccnc(c2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.00231,uM,Scientific Literature,CHEMBL3593208,Bioorg. Med. Chem.,2015
+CHEMBL2177582,CN1C[C@H](c2ccc(/C=C/C(=O)Nc3ccccc3N)cc2F)[C@@H](C(=O)Nc2ccc(Cl)cc2)C1,Active,0.23,uM,Scientific Literature,CHEMBL2177000,J. Med. Chem.,2012
+CHEMBL3903253,O=C(NO)c1cnc(NC2(c3cccc(F)c3)CCC3(CC2)OCCO3)nc1,Inactive,1.821,uM,BindingDB Database,CHEMBL3886954,,2016
+CHEMBL3951953,Cn1ccc2ccc(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc21,Active,0.066,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2390995,O=C(/C=C/c1ccc2c(c1)C(=O)CC1(CCN(Cc3ccc(F)cc3)CC1)O2)NO,Active,0.091,uM,Scientific Literature,CHEMBL2390828,Eur. J. Med. Chem.,2013
+CHEMBL1914708,[N-]=[N+]=NCc1cc(Cn2cc(NC(=O)CCCCCCC(=O)NO)cn2)cc(N=[N+]=[N-])c1,Active,0.128,uM,Scientific Literature,CHEMBL2169804,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3937977,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCCS,Inactive,13.654,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3622726,C/C=C1\NC(=O)[C@H](CS)NC(=O)[C@@H](C(C)C)NC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](C(C)C)NC1=O,Active,0.0048,uM,Scientific Literature,CHEMBL3621100,J. Med. Chem.,2015
+CHEMBL3771206,CC(=O)SCC/C=C/[C@@H]1CC(=O)NCc2ccc(cc2)C2=N[C@@](C)(CS2)C(=O)N[C@@H](C(C)C)C(=O)O1,Active,0.47,uM,Scientific Literature,CHEMBL3769398,J. Med. Chem.,2016
+CHEMBL4102988,COc1ccc(C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)NCCCCCC(=O)Nc2ccc(F)cc2N)cc1,Active,0.11,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL109654,O=C(CCCCCS)Nc1ccccc1,Active,0.725,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3317811,C[C@@]12CSC(=N1)c1csc(n1)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](Cc1ccc(O)cc1)NC2=O,Active,0.00038,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL447397,CCOC(=O)c1ccc(C(=O)C(F)(F)F)s1,Inactive,3.5,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL2431862,Cn1cccc1C(=O)NCc1ccc(C(=O)NO)cc1,Inactive,4.5,uM,Scientific Literature,CHEMBL3351349,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3426906,O=C(CCCCCOc1no[n+]([O-])c1S(=O)(=O)c1ccccc1)NO,Active,0.532,uM,Scientific Literature,CHEMBL3425494,J. Med. Chem.,2015
+CHEMBL3656016,Cc1cc(C(F)(F)F)cc(C2(Nc3ncc(C(=O)NO)cn3)CC2)c1,Active,0.189,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652239,Cc1cc(C)cc(Nc2ncc(C(=O)NO)cn2)c1,Active,0.319,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652228,Cc1ccc(Nc2ncc(C(=O)NO)cn2)cc1,Active,0.291,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3961083,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCCCC(=O)NO,Active,0.249,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3956097,Cc1cnc(C(=O)NCCCCCC(=O)Nc2ccccc2N)s1,Active,0.989,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL474890,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc(CN2CCC3(CCCN3)CC2)cc1,Inactive,9.617,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3287251,Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.6555,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL1914702,[N-]=[N+]=NCc1cc(N=[N+]=[N-])cc(C(=O)Nc2ccc(-c3cc(C(=O)NCCCCCCC(=O)NO)no3)cc2)c1,Active,0.045,uM,Scientific Literature,CHEMBL2169804,Bioorg. Med. Chem. Lett.,2012
+CHEMBL493783,CN(Cc1ccccc1)C(=O)c1cnc(C(=O)C(F)(F)F)s1,Inactive,7.3,uM,Scientific Literature,CHEMBL1150306,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3664025,Nc1cc(F)ccc1NC(=O)c1ccc2[nH]cnc2c1,Active,0.282,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3910879,COc1ccc2[nH]c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cc2c1,Active,0.031,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3601337,Cc1ccc(Nc2nccc3ccc(NC(=O)CCCCCCC(=O)NO)cc23)c(Br)c1,Active,0.01763,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL1800241,CC(=O)Nc1ccc(C(=O)CSc2nc(C)cc(O)n2)cc1,Inactive,15.2,uM,Scientific Literature,CHEMBL1800036,Bioorg. Med. Chem. Lett.,2011
+CHEMBL3910907,Cc1ccc(C(=O)NCCC/C=C/C(=O)Nc2ccccc2N)cc1,Active,0.239,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3347696,Nc1ccccc1NC(=O)CCCCCCC(=O)Nc1cccc(-c2cn(-c3ccccc3)nn2)c1,Active,0.12,uM,Scientific Literature,CHEMBL3390834,MedChemComm,2012
+CHEMBL3655961,O=C(NO)c1cnc(NC2(c3ccccc3)CCCCC2)nc1,Inactive,4.515,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3934253,Nc1cc(F)ccc1NC(=O)CCCCCNS(=O)(=O)c1ccc(F)cc1,Inactive,6.65,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4072925,NC(=O)C[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,3.1,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3621298,Nc1ccccc1NC(=O)CCCCCCC(=O)Nc1ccc2c(c1)/C(=C/c1ccc[nH]1)C(=O)N2,Active,0.394,uM,Scientific Literature,CHEMBL3621077,MedChemComm,2014
+CHEMBL3961271,O=C(CCCCCCNC(=O)c1nc(-c2nc3c(s2)CCCC3)sc1C1CC1)NO,Active,0.016,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3670674,Nc1ccccc1NC(=O)c1ccc(CNC(=O)c2[nH]c(-c3ccsc3)cc2-c2ccc(O)cc2)cc1,Active,0.075,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL466032,O=C(CCCCc1cc(C(=O)O)no1)Nc1nc(-c2ccccc2)cs1,Inactive,10.6,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL471344,Cc1noc(-c2ccc(C(=O)C(F)(F)F)s2)n1,Inactive,7.1,uM,Scientific Literature,CHEMBL1152136,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3356922,Cc1cccc(NC(=O)[C@H](CCCCCS)NC(=O)[C@@H]2CCC(=O)N2)c1,Active,0.004,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3317814,C[C@@]12CSC(=N1)c1csc(n1)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](CCN)NC2=O,Active,0.0078,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3593409,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2cccc(n2)CNC(=O)C[C@@H](/C=C/CCS)OC1=O,Active,0.00307,uM,Scientific Literature,CHEMBL3593208,Bioorg. Med. Chem.,2015
+CHEMBL3670679,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccccc3)cc2-c2cccc(Br)c2)cc1,Inactive,2.068,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3655939,O=C(NO)c1cnc(NCc2ccc(F)cc2C(F)(F)F)nc1,Active,0.901,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL487107,O=C(CCCCCCC(=O)Nc1cccc(-c2cnnn2CC(O)c2cccc(Br)c2)c1)NO,Active,0.0042,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3952143,Nc1ccc(-c2cccs2)cc1NC(=O)c1cnc2c(c1)cc(C1CC1)n2CCN1CCOCC1,Active,0.445,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3601779,Cc1ccc(Nc2nccc3ccc(NCc4ccc(/C=C/C(=O)NO)cc4)cc23)c(Cl)c1,Active,0.47474,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3962891,N#Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.4,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3664035,Nc1ccc(F)cc1NC(=O)c1cnc2cc(N3CCNCC3)ccc2n1,Active,0.675,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3961324,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2nonc2c1,Inactive,1.153,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3929797,CC(C)(C)OC(=O)NCc1nc(-c2nc(C(=O)NCCCCCCC(=O)NO)cs2)cs1,Inactive,1.178,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3311473,CC1(C)CC(=O)Nc2ccc(C(=O)NCCCCCCC(=O)NO)cc21,Active,0.069,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3907301,CC(=O)c1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.741,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3922439,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc2c(cnn2CCN2CCOCC2)c1,Active,0.344,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL473478,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)c1ccc(CN2CCC3(CCNC3)CC2)cc1,Inactive,4.803,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL583130,CCC(=O)CCCCC[C@@H]1NC(=O)[C@H](C)NC(=O)C[C@H](CC(C)C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,Active,0.143,uM,Scientific Literature,CHEMBL1156016,J. Med. Chem.,2009
+CHEMBL4064944,CCCCCCC(CCCC(=O)NO)CCC(=O)Nc1ccccc1,Inactive,2.9,uM,Scientific Literature,CHEMBL4052702,Bioorg Med Chem Lett,2017
+CHEMBL565112,Cc1ccc(C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCCC(=O)Nc2ccccc2N)cc1,Inactive,2.2,uM,Scientific Literature,CHEMBL1151874,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3601344,CCN(CC)CCn1ccc2ccc(NC(=O)CCCCCCC(=O)NO)cc2c1=O,Active,0.07442,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL471041,O=C(/C=C/c1ccc(/C=N/OCc2c(F)c(F)c(F)c(F)c2F)cc1)NO,Inactive,2.8,uM,Scientific Literature,CHEMBL1153969,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3897392,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccoc1,Active,0.386,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1767029,CNC(=O)/C(CCCCCCC(=O)Nc1ccccc1)=N\O,Inactive,18.6,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL3897806,Cc1ccc(C(=O)NCCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.653,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3974672,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(Cl)c(Cl)c1,Active,0.2,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3894825,CC1(C)C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=S)N1c1ccc(C(=O)OCCCCCC(=O)NO)c(F)c1,Inactive,2,uM,Scientific Literature,CHEMBL3862016,Bioorg Med Chem Lett,2016
+CHEMBL3903543,Cc1[nH]c2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)ccc2c1C,Active,0.037,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1767036,CNC(=O)/C(CCCCCCC(=O)Nc1cccc(-c2ccccc2)c1)=N\O,Inactive,9.6,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL1469,O=C(O)CCCc1ccccc1,Inactive,260,uM,Scientific Literature,CHEMBL1671826,ACS Med. Chem. Lett.,2011
+CHEMBL3652242,O=C(NO)c1cnc(Nc2cccc(C(F)(F)F)c2)nc1,Active,0.313,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3601775,COc1ccc(Cn2ccc3ccc(NC(=O)CCCCCCC(=O)NO)cc3c2=O)c(OC)c1,Active,0.1077,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3356937,Cc1cccc(CCNC(=O)[C@H](CCCCCS)NC(=O)[C@@H]2CCCC(=O)N2)c1,Active,0.122,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL4063718,Cc1ccc(F)c(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.06754,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL1089339,Cc1cccc(NC(=O)CCCCC(=O)NO)c1,Active,0.058,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL1088734,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(-c3ccc(C(F)(F)F)cc3)nn2)c1)NO,Active,0.0034,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL1088736,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(-c3cc(CO)cc(CO)c3)nn2)c1)NO,Active,0.0033,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL1091475,O=C(CCCCCCC(=O)Nc1cccc(-c2cn(-c3ccc(I)cc3)nn2)c1)NO,Active,0.003,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL1092762,Cc1ccc(NC(=O)CCCCC(=O)NO)cc1,Active,0.114,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL1093042,CCc1ccc(NC(=O)CCCCC(=O)NO)cc1,Active,0.24,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL1093335,CC(C)(C)c1[nH]c2ccccc2c1[C@@H]1CCCN(Cc2ccc(/C=C/C(=O)NO)cc2F)C1,Active,0.021,uM,Scientific Literature,CHEMBL1156307,J. Med. Chem.,2010
+CHEMBL1093713,Cc1cc(C)cc(NC(=O)CCCCC(=O)NO)c1,Active,0.03,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL1094708,Nc1ccc(-n2cc(-c3cccc(NC(=O)CCCCCCC(=O)NO)c3)nn2)cc1,Active,0.00155,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL1164212,C[C@H](CCCCNC(=O)CS)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,32.3,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1164226,C[C@H](CCCCNS(C)(=O)=O)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,718,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1164241,C[C@H](CCCCNS(N)(=O)=O)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,470,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1164243,C[C@H](CCCCCNS(N)(=O)=O)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,605,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1164244,CNC(=O)C(=O)CCCC[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,36,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1165292,C[C@H](CCCC(=O)Nc1ccccc1N)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,460,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1165571,C[C@H](CCCC(=O)NO)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,3.2,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1630107,O=C(/C=C/c1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1)NO,Inactive,6.3,uM,Scientific Literature,CHEMBL1629443,J. Med. Chem.,2010
+CHEMBL1631913,COc1cc2cc(c1)COc1ccccc1NC(=O)C(CCCCCC(=O)NO)OC/C=C\2,Active,0.0396,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL1643315,Nc1ccccc1NC(=O)/C=C/c1ccc(C(NCCC2CCOCC2)C(=O)Nc2ccc(C(F)(F)F)cc2)cc1,Active,1,uM,Scientific Literature,CHEMBL1641604,Bioorg. Med. Chem. Lett.,2011
+CHEMBL1767039,CNC(=O)/C(CCCCCCC(=O)Nc1cccc(-c2ccc(Cl)nc2)c1)=N\O,Inactive,1.99,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL1767041,CNC(=O)/C(CCCCCCNC(=O)c1cc(-c2cccc(NC(=O)OC(C)(C)C)c2)on1)=N/O,Inactive,89.8,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL1767042,CNC(=O)/C(CCCCCCNC(=O)c1cc(-c2ccc(NC(=O)OC(C)(C)C)cc2)on1)=N/O,Inactive,51.8,uM,Scientific Literature,CHEMBL1765034,J. Med. Chem.,2011
+CHEMBL1800375,Cc1cc(O)nc(SCC(=O)c2ccc(Cl)cc2)n1,Inactive,86.4,uM,Scientific Literature,CHEMBL1800036,Bioorg. Med. Chem. Lett.,2011
+CHEMBL1800383,CCOC(=O)CC(=O)CSc1nc(C)cc(O)n1,Inactive,40,uM,Scientific Literature,CHEMBL1800036,Bioorg. Med. Chem. Lett.,2011
+CHEMBL186311,CCCC(CCC)C(=O)NO,Inactive,340,uM,Scientific Literature,CHEMBL1671826,ACS Med. Chem. Lett.,2011
+CHEMBL2012814,CCC(=O)CCCCC[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)C[C@H](CC(C)C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,Active,0.28,uM,Scientific Literature,CHEMBL4052703,Bioorg Med Chem Lett,2017
+CHEMBL217651,CC(=O)CCCCC[C@H](NC(=O)C1CCCCN1C)C(=O)Nc1nc(-c2ccccc2)cs1,Active,0.014,uM,Scientific Literature,CHEMBL1137275,Bioorg. Med. Chem. Lett.,2006
+CHEMBL236061,COc1ccc(C(=O)Nc2ccccc2N)cc1,Inactive,1.4,uM,Scientific Literature,CHEMBL1138236,J. Med. Chem.,2007
+CHEMBL2417782,CC(C)(C)OC(=O)Nc1cccc(-c2csc(NC(=O)CCCCCCC(=O)NO)n2)c1,Active,0.002,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL2417783,Cc1onc(-c2ccccc2)c1C(=O)NCCCCCNC(=O)CS,Inactive,14,uM,Scientific Literature,CHEMBL2417402,J. Med. Chem.,2013
+CHEMBL271741,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccccc1,Inactive,11,uM,Scientific Literature,CHEMBL1143185,Bioorg. Med. Chem. Lett.,2008
+CHEMBL271949,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccccc1,Inactive,11,uM,Scientific Literature,CHEMBL1143185,Bioorg. Med. Chem. Lett.,2008
+CHEMBL272401,CC(=O)CCCCC[C@H](NC1CCCCN1C)C(=O)Nc1nc(-c2ccccc2)cs1,Active,0.014,uM,Scientific Literature,CHEMBL1142268,J. Med. Chem.,2008
+CHEMBL272980,Nc1ccccc1NC(=O)c1ccc(CNc2nccc(-c3cccnc3)n2)cc1,Inactive,1.106428571,uM,Scientific Literature,CHEMBL2439983,Bioorg. Med. Chem.,2013
+CHEMBL3104855,Cc1c(O)c(O)c(O)c(C=O)c1-c1cc2c(C=O)c(C)c(O)c(O)c2o1,Inactive,6.9,uM,Scientific Literature,CHEMBL3102702,J. Nat. Prod.,2014
+CHEMBL3109993,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1ccnc(C2CC2)c1,Inactive,18,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL3110015,O=C(NO)[C@@H]1[C@H](c2ccccc2)[C@H]1c1ccc(-c2ncc(F)cn2)cc1,Inactive,9.4,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL3110023,Cn1cc([C@H]2[C@H](C(=O)NO)[C@@H]2c2ccccc2)cn1,Inactive,25,uM,Scientific Literature,CHEMBL3108758,J. Med. Chem.,2013
+CHEMBL320497,O=C(CCCCCCC(=O)NO)NO,Inactive,62.6,uM,Scientific Literature,CHEMBL3739297,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3217997,C#Cc1cccc(Nc2ncnc3ccc(NC(=O)c4ccc(C(=O)Nc5ccccc5N)s4)cc23)c1,Active,0.92,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3217998,C#Cc1cccc(Nc2ncnc3ccc(NC(=O)c4ccc(C(=O)Nc5ccccc5N)nc4)cc23)c1,Active,0.44,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3218002,C#Cc1cccc(Nc2ncnc3ccc(S(=O)(=O)n4ccc(/C=C/C(=O)NO)c4)cc23)c1,Active,0.015,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3286732,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc(N2CCC3(CC2)CNC(=O)O3)nc1,Inactive,7,uM,Scientific Literature,CHEMBL3286368,ACS Med. Chem. Lett.,2014
+CHEMBL3287008,CC(C)[C@H](NC(=O)c1csc(-c2cscn2)n1)C(=O)OC/C=C/CCS,Active,0.059,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3287009,CCCCCCCC(=O)SCC/C=C/COC(=O)[C@@H](NC(=O)c1csc(-c2csc(C)n2)n1)C(C)C,Inactive,3.559,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3287253,CC(C)c1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.359,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3287255,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1C1CC1)NO,Active,0.21008,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3287260,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1-c1ccccc1Cl)NO,Active,0.4515,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3287264,CC(C)=Cc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.2,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3287269,CC(C)C1CC1c1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.278,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3309284,Cn1c(=O)ccc2cc(C(=O)NCCCCCCC(=O)NO)ccc21,Active,0.098,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3309288,COc1ccc2cc(C(=O)NCCCCCCC(=O)NO)ccc2n1,Active,0.028,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3309297,CC1(C)CC(=O)Nc2ccc(C(=O)NC[C@H]3CC[C@H](/C=C/C(=O)NO)CC3)cc21,Active,0.015,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3311466,CC1(C)CC(=O)Nc2ccc(NC(=O)CCCCCCC(=O)NO)cc21,Active,0.089,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3317812,C[C@@]12CSC(=N1)c1csc(n1)CNC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](Cc1c[nH]cn1)NC2=O,Active,0.0011,uM,Scientific Literature,CHEMBL3352389,Bioorg. Med. Chem. Lett.,2014
+CHEMBL3339009,O=C(CCCCC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1)NO,Active,0.12656,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3339018,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(I)cc3F)ncnc2s1)NO,Active,0.01352,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3339021,O=C(CCCCCC(=O)Nc1cc2c(Nc3ccccc3)ncnc2s1)NO,Active,0.02077,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3339026,Cc1ccc(Nc2ncnc3sc(NC(=O)CCCCCCC(=O)NO)cc23)cc1C,Active,0.00356,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3339033,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccc(N4CCCC4)cc3)ncnc2s1)NO,Active,0.0141,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3354913,COc1ccc(C(=O)N[C@H](COc2cccc(/C=C/C(=O)NO)c2)Cc2c[nH]c3ccccc23)cc1,Active,0.2236,uM,Scientific Literature,CHEMBL3351443,Eur. J. Med. Chem.,2015
+CHEMBL3356919,O=C1CC[C@@H](C(=O)N[C@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.005,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3356923,Cc1cccc(NC(=O)[C@H](CCCCCS)NC(=O)[C@H]2CCC(=O)N2)c1,Active,0.003,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3356924,Cc1cccc(NC(=O)[C@H](CCCCCS)NC(=O)[C@H]2CCC(=O)N2C)c1,Active,0.005,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3356925,O=C(Nc1ccccc1)[C@H](CCCCCS)NC(=O)[C@@H]1C(=O)NC[C@H]1c1ccccc1,Active,0.002,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3356926,O=C(Nc1ccccc1)[C@H](CCCCCS)NC(=O)[C@H]1C(=O)NC[C@@H]1c1ccccc1,Active,0.055,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3356927,O=C(Nc1ccccc1)[C@H](CCCCCS)NC(=O)[C@@H]1C(=O)NC[C@@H]1c1ccccc1,Active,0.009,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3356935,O=C1CCC[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)NCc2cccc(OCc3ccccc3)c2)N1,Active,0.495,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3417209,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(=O)c1ccc(C(=O)Nc3ccccc3N)cc1)CC2,Inactive,12.1,uM,Scientific Literature,CHEMBL3414494,Eur. J. Med. Chem.,2015
+CHEMBL3526396,C[C@@]12Nc3ccccc3[C@]1(O)CCN2Cc1ccc(/C=C/C(N)=O)cc1,Active,0.93,uM,Scientific Literature,CHEMBL3526051,Drug Metab. Dispos.,2012
+CHEMBL3527525,Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(N)=O)cc1,Inactive,22,uM,Scientific Literature,CHEMBL3526051,Drug Metab. Dispos.,2012
+CHEMBL3593407,CC(C)[C@@H]1NC(=O)[C@]2(C)CSC(=N2)c2csc(n2)CNC(=O)C[C@@H](/C=C/CCS)NC1=O,Active,0.00259,uM,Scientific Literature,CHEMBL3593208,Bioorg. Med. Chem.,2015
+CHEMBL3601335,Cc1ccc(Nc2nccc3ccc(NC(=O)CCCCCCC(=O)NO)cc23)c(F)c1,Active,0.03967,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3601338,O=C(CCCCCCC(=O)Nc1ccc2ccnc(Nc3ccccc3F)c2c1)NO,Active,0.01888,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3601339,COCCN(CCOC)c1nccc2ccc(NC(=O)CCCCCCC(=O)NO)cc12,Active,0.192,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3601340,O=C(CCCCCCC(=O)Nc1ccc2ccnc(N3CCOCC3)c2c1)NO,Active,0.04078,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3601342,COCCCNc1nccc2ccc(NC(=O)CCCCCCC(=O)NO)cc12,Active,0.01395,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3622731,C/C=C1\NC(=O)c2csc(n2)CNC(=O)C[C@@H](/C=C/CCSC(C)=O)OC(=O)[C@H](C(C)C)NC1=O,Active,0.073,uM,Scientific Literature,CHEMBL3621100,J. Med. Chem.,2015
+CHEMBL3652229,COc1ccc(Nc2ncc(C(=O)NO)cn2)cc1,Active,0.421,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652231,O=C(NO)c1cnc(Nc2ccccc2Cl)nc1,Active,0.606,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652233,O=C(NO)c1cnc(Nc2ccc([N+](=O)[O-])c(C(F)(F)F)c2)nc1,Active,0.43,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652237,O=C(NO)c1cnc(Nc2cccc(Cl)c2)nc1,Active,0.198,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652238,O=C(NO)c1cnc(Nc2cc(F)cc(F)c2)nc1,Active,0.177,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3652241,COc1cc(Nc2ncc(C(=O)NO)cn2)cc(C(F)(F)F)c1,Active,0.484,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655912,O=C(NO)c1cnc(Nc2cccc(N3CCOCC3)c2)nc1,Active,0.52,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655913,O=C(NO)c1cnc(Nc2cccc(-c3ccncc3)c2)nc1,Active,0.141,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655914,Cc1cc(Nc2ncc(C(=O)NO)cn2)ccn1,Active,0.221,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655916,O=C(NO)c1cnc(NCc2ccccc2Cl)nc1,Active,0.169,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655920,O=C(NO)c1cnc(NCc2ccc(C(F)(F)F)cc2)nc1,Active,0.149,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655923,O=C(NO)c1cnc(NCc2cccc(C(F)(F)F)c2)nc1,Active,0.07,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655927,O=C(NO)c1cnc(NCCc2ccc(Cl)cc2)nc1,Active,0.307,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655935,Cc1cc(Cl)ccc1CNc1ncc(C(=O)NO)cn1,Active,0.254,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655946,O=C(NO)c1cnc(NCc2ccncc2)nc1,Active,0.299,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655952,CC(C)(Nc1ncc(C(=O)NO)cn1)c1cccc(F)c1,Inactive,1.882,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655955,Cc1cc(C(C)(C)Nc2ncc(C(=O)NO)cn2)ccc1F,Inactive,1.327,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655960,CC(C)(Nc1ncc(C(=O)NO)cn1)c1ccc(Cl)cc1F,Active,0.928,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655965,O=C(NO)c1cnc(NC2(c3ccccc3)CCCC2)nc1,Inactive,2.243,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655979,O=C(NO)c1cnc(NC2(c3cc4ccccc4s3)CC2)nc1,Active,0.033,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655985,O=C(NO)c1cnc(NCc2ccccn2)nc1,Active,0.355,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655987,CC1(Nc2ncc(C(=O)NO)cn2)CCCCC1,Inactive,3.46,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3655993,O=C(NO)c1cnc(NC2(c3c(F)cccc3F)CC2)nc1,Active,0.008,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3656014,O=C(NO)c1cnc(NC2(c3cc(C(F)(F)F)cc(C(F)(F)F)c3)CC2)nc1,Active,0.384,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3656021,COc1ccc(C2(Nc3ncc(C(=O)NO)cn3)CCCC2)cc1,Active,0.649,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3656022,O=C(NO)c1cnc(NC2(c3cccc(Cl)c3)CCCC2)nc1,Inactive,1.255,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3664032,Nc1ccccc1NC(=O)c1cc2ccc(N3CCNCC3)c(C3CC3)c2cn1,Active,0.033,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3670667,COc1ccc(-c2cc(-c3ccccc3)[nH]c2C(=O)NCc2ccc(C(=O)Nc3ccccc3S)cc2)cc1,Active,0.614,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3735106,C[C@]12CC[C@@H]3c4ccc(O)cc4C[C@@H](CCCCCCCCCCC(=O)NO)[C@H]3[C@@H]1CC[C@@H]2O,Active,0.96,uM,Scientific Literature,CHEMBL3734665,Bioorg. Med. Chem.,2015
+CHEMBL3758246,COc1cc(O)cc(OC)c1/C=N/NC(=O)CCCCCC(=O)NO,Active,0.0256,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3759794,O=C(CCCCCC(=O)N/N=C/c1ccc(-c2cccnc2)cc1)NO,Active,0.0008,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3770287,O=C(NCCCCC(=O)C(F)(F)F)c1nc(-c2nccs2)sc1C1CC1,Active,0.02584,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL3770504,O=C(NCCCCC(=O)C(F)(F)F)c1nc(-c2nc3c(s2)CCCC3)sc1C1CC1,Active,0.02079,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL3827766,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)[C@H]1CCCCO1,Inactive,5.73,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3883560,Cc1ccc(-c2cc(C(=O)NCCCCCCCC(=O)NO)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,Active,0.033,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3884141,Cc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)nn2-c2ccc(S(C)(=O)=O)cc2)cc1,Active,0.338,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3884279,Cc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,Active,0.333,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3884506,COc1ccc2c(c1)c(CC(=O)O)c(C)n2Cc1ccc(-c2cn(CCCCCCC(=O)NO)nn2)cc1,Active,0.059,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3885174,COC(=O)Cc1c(C)n(Cc2ccc(-c3cn(CCCCCCC(=O)NO)nn3)cc2)c2ccc(OC)cc12,Active,0.035,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3885367,COc1ccc2c(c1)c(CC(=O)NCCCCCCC(=O)NO)c(C)n2C(=O)c1ccc(Cl)cc1,Active,0.356,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3891163,CC(C)Cc1sc(-c2nccs2)nc1C(=O)Nc1cccc(/C=C/C(=O)NO)c1,Active,0.41,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3891306,CCC(CC)(c1ccc(CCC(=O)NO)c(C)c1)c1ccc(OC[C@H](O)C(C)(C)C)c(C)c1,Inactive,45.1,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL3891628,CC(C)c1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.147,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3891630,Cc1[nH]c2c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cccc2c1C,Active,0.047,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3892773,CN(C)c1ccc(C(=O)NCCC/C=C/C(=O)Nc2ccccc2N)cc1,Active,0.176,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3901649,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cnccn1,Inactive,1.686,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3904771,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc([N+](=O)[O-])c1,Active,0.377,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3904894,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(Cl)cc1Cl,Active,0.605,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3905120,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc(Cl)cc(Cl)c1,Active,0.3,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3906837,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)OCc3ccccc3)CC2)nc1,Inactive,1.642,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3908924,Nc1ccccc1NC(=O)CCCCNC(=O)c1ccc2c(c1)OCCO2,Inactive,1.931,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3909801,CCNc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.08,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3910638,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(S(=O)(=O)c3ccc(C(F)(F)F)cc3)CC2)nc1,Inactive,2.703,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3911545,O=C(CCCCCCNC(=O)c1nc(-c2nccs2)sc1C1CC1)NO,Active,0.01,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3911952,Nc1ccccc1NC(=O)c1ccc2nc(N3CCNCC3)ccc2c1,Active,0.104,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3913445,Nc1ccc(-c2ccccc2)cc1NC(=O)c1cnc2c(ccn2CCN2CCOCC2)c1,Active,0.373,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3915781,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccs1,Active,0.2105,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3916246,CC(C)[C@H](C(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1)c1ccccc1,Inactive,1.1,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3916257,COc1ccc(NC(=O)N2CCC(Nc3ncc(C(=O)NO)cn3)(c3ccccc3)CC2)cc1,Active,0.546,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3919200,Cc1nc(-c2cccnc2)sc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.856,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3921933,Nc1ccc(F)cc1NC(=O)CCCCCNC(=O)c1ccc(F)cc1,Inactive,1.8,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3923336,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc(OC(F)F)c1,Active,0.13,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3924418,N#Cc1cccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c1,Active,0.195,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3925220,Nc1ccccc1NC(=O)CCCCCNC(=O)c1csc(-c2ccncc2)n1,Active,0.1,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3926116,COc1ccc2[nH]cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)c2c1,Active,0.039,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3928805,CCc1cccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)c1,Active,0.121,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3931528,CCOc1ccc2c(c1)cc(C(=O)NCCCCCC(=O)Nc1ccccc1N)n2C,Active,0.067,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3933987,O=C(CCCCNC(=O)c1nc(-c2nc3c(s2)CCC3)sc1C1CC1)NO,Active,0.13,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3934304,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc([N+](=O)[O-])cc1,Active,0.5,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3935445,CC(C)Cc1sc(-c2nccs2)nc1C(=O)Nc1ccc(C(=O)NO)cc1,Active,0.687,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3937638,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc(N2CCC2)cc1,Active,0.086,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3938470,CS(=O)(=O)c1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Inactive,1.242,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3938743,Cc1ccc2[nH]nc(C(=O)NCCCCCC(=O)Nc3ccccc3N)c2c1,Active,0.045,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3940985,Cc1ccc(NC(=O)CCCCCC(=O)Nc2ccccc2N)cc1,Active,0.72,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3944388,Nc1cc(F)ccc1NC(=O)CCCCCNC(=O)c1ccc(F)cc1,Inactive,1.6,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3945418,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1Br,Active,0.399,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3945898,CNc1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.078,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3947637,Nc1ccccc1NC(=O)/C=C/CCCNC(=O)c1ccccc1,Active,0.251,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3948298,Cc1csc(-c2nc(C(=O)NCCCCC(=O)NO)c(C3CC3)s2)n1,Active,0.06,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3949676,CN(C)c1ccc(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc1,Active,0.2,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3951875,Nc1ccc(-c2ccccc2)cc1NC(=O)c1cnc2c(C3CC3)c(N3CCNCC3)ccc2c1,Active,0.164,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3958365,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccc(F)cc2N)cc1,Active,0.8,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3963102,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Nc3ccccc3)CC2)nc1,Inactive,1.01,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3963714,O=C(CCCCNC(=O)c1csc(-c2cccs2)n1)NO,Active,0.188,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3966661,Nc1ccccc1NC(=O)CCCCCNC(=O)C1CCN(c2ccncc2)CC1,Active,0.955,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3967312,Cc1ccccc1S(=O)(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1,Inactive,1.983,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3968157,COCCNc1cc2ncc(C(=O)Nc3cc(-c4cccs4)ccc3N)cc2cc1C1CC1,Inactive,1.548,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL3973671,Cn1ccc2cc(C(=O)NCCCCCC(=O)Nc3ccccc3N)ccc21,Active,0.033,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3974241,Nc1cc(F)ccc1NC(=O)CCCCCNC(=O)c1cccnc1,Inactive,3,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3980806,COc1cccc2c(C(=O)NCCCCCC(=O)Nc3ccccc3N)c[nH]c12,Active,0.046,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3984113,Cn1cc(-c2cc(C(=O)NCCCCC(=O)Nc3ccccc3N)on2)cn1,Inactive,6.383,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4060174,C#Cc1cccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.02471,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4060342,CC(C)(C)SC[C@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.75,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4061157,NC(=O)CC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,1.94,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4063279,O=C(CCCCN1C(=O)[C@H](Cc2cc3ccccc3[nH]2)N=C(c2ccccc2)c2ccccc21)NO,Inactive,1.01,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4071741,CC(C)(C)OC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,1.21,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4072356,CC(C)(C)OC(=O)CC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,1.03,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4078458,COc1ccc(/C=C/C(=O)NO)c(-c2ccc(-c3ccccc3)cc2)c1,Inactive,3,uM,Scientific Literature,CHEMBL4033774,J Med Chem,2018
+CHEMBL4080014,Cc1nc2ccccc2n1Cc1ccc(C(=O)NO)cc1F,Inactive,12.5,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL4080570,O=C(CCCCN1C(=O)CN=C(c2ccccc2)c2ccccc21)NO,Active,0.66,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4082059,CC(C)(C)c1cccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.05027,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4089922,CCc1cccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.147,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4090165,O=C(NO)c1ccc(Cn2cc(-c3ccc(CN4CCCC4)cc3)nn2)cc1,Active,0.002,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL4090841,CC(C)c1ccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)cc1,Active,0.15246,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4091531,O=C(CCCCCCC(=O)Nc1cc2ncnc(Nc3ccc(Cl)cc3F)c2s1)NO,Active,0.13306,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4095245,COc1ccc(C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)Nc2ccc(C(=O)Nc3ccc(F)cc3N)cc2)cc1,Active,0.167,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL4097820,CC[C@@H](C)[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Inactive,1.03,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL4098561,COc1cccc(Nc2ncnc3cc(NC(=O)CCCCCCC(=O)NO)sc23)c1,Active,0.02137,uM,Scientific Literature,CHEMBL4004853,Eur J Med Chem,2017
+CHEMBL4102475,Nc1ccccc1NC(=O)c1ccc(NC(=O)CN2C(=O)C3(OCCO3)c3cc(Br)ccc32)cc1,Active,0.667,uM,Scientific Literature,CHEMBL4033688,Bioorg Med Chem,2017
+CHEMBL4105408,COc1ccc(C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)NCc2ccc(C(=O)Nc3ccc(F)cc3N)cc2)cc1,Active,0.243,uM,Scientific Literature,CHEMBL4020724,Eur J Med Chem,2017
+CHEMBL466459,CC(C)(C)OC(=O)Nc1ccc(-c2cc(C(=O)NCC(=O)Nc3ccc(-c4cc(C(=O)NO)no4)cc3)no2)cc1,Inactive,1.92,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL467793,Nc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)no2)cc1,Active,0.0102,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL468841,Nc1ccc(-c2cc(C(=O)NCCCCC(=O)NO)no2)cc1,Active,0.0658,uM,Scientific Literature,CHEMBL1155917,J. Med. Chem.,2008
+CHEMBL470156,Cn1cc(-c2ccc(N)c(NC(=O)c3ccc(N4CCC5(CCNC5)CC4)nc3)c2)cn1,Inactive,5340,uM,Scientific Literature,CHEMBL1152282,Bioorg. Med. Chem. Lett.,2008
+CHEMBL475692,Nc1ccc(-c2ccccc2)cc1NC(=O)c1ccc(CN2CCC3(CCCN3)CC2)cc1,Inactive,16.48,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL483494,O=C(CCCCCCC(=O)Nc1ccc(-c2cn(Cc3ccc(F)cc3)nn2)cc1)NO,Active,0.0137,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL484073,O=C(/C=C/c1ccc2cccnc2c1)NCCCCCC(=O)NO,Active,0.0067,uM,Scientific Literature,CHEMBL1137690,Eur. J. Med. Chem.,2009
+CHEMBL488747,O=C(CCCCCCC(=O)Nc1cccc(-c2cnnn2Cc2ccccc2)c1)NO,Active,0.0045,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL504161,O=C(c1ccc(-c2nc(Cc3cccs3)no2)s1)C(F)(F)F,Active,0.63,uM,Scientific Literature,CHEMBL1152136,Bioorg. Med. Chem. Lett.,2008
+CHEMBL514304,Nc1ccc(-c2ccsc2)cc1NC(=O)c1ccc(CN2CCC3(CCCN3)CC2)cc1,Inactive,8.706,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL561483,COc1cccc2c(C(CCCCCC(=O)NO)c3c[nH]c4c(OC)cccc34)c[nH]c12,Active,0.023,uM,Scientific Literature,CHEMBL1153591,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3885496,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(=O)(=O)NCCCCCCC(=O)NO)cc2)cc1,Active,0.424,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3335288,O=C(CCCCc1ccn(-c2ccccc2)n1)NO,Active,0.367,uM,Scientific Literature,CHEMBL3352093,Eur. J. Med. Chem.,2014
+CHEMBL3655994,O=C(NO)c1cnc(NC2(c3cccc(OC(F)(F)F)c3)CC2)nc1,Active,0.057,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL570490,CC(C)C[C@H]1CC(=O)N[C@@H](C)C(=O)N[C@@H](CCCCCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)N1,Active,0.608,uM,Scientific Literature,CHEMBL1156016,J. Med. Chem.,2009
+CHEMBL1808674,O=C(/C=C/C=C/CCCCc1ccc2c(c1)OCO2)NO,Inactive,1.52,uM,Scientific Literature,CHEMBL1806373,Bioorg. Med. Chem. Lett.,2011
+CHEMBL2046613,COc1ccc(/C=C/C(=O)NCCCN2CCc3nc(C(=O)NO)sc3C2)cc1,Inactive,6.62,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3356918,O=C1CC[C@@H](C(=O)N[C@@H](CCCCCS)C(=O)Nc2ccccc2)N1,Active,0.013,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3601331,O=C(CCCCCCC(=O)Nc1ccc2ccnc(Nc3ccc(Br)cc3F)c2c1)NO,Active,0.01665,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3233711,O=C(/C=C/c1cccc(OC[C@H](Cc2c[nH]c3ccccc23)NC(=O)c2ccc(Cl)cc2)c1)NO,Active,0.4032,uM,Scientific Literature,CHEMBL3232921,J. Med. Chem.,2014
+CHEMBL3966165,CC1(C)C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=S)N1c1ccc(C(=O)NCCOCCC(=O)NO)c(F)c1,Inactive,49.2,uM,Scientific Literature,CHEMBL3862016,Bioorg Med Chem Lett,2016
+CHEMBL3981124,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccc(Br)cc2N)cc1,Inactive,16,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1094709,O=C(CCCCCCC(=O)Nc1cccc(-n2cc(-c3ccccc3)nn2)c1)NO,Active,0.0028,uM,Scientific Literature,CHEMBL1154884,J. Med. Chem.,2010
+CHEMBL3652230,O=C(NO)c1cnc(Nc2ccc(Cl)cc2)nc1,Active,0.266,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3935380,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cc2cc(OC(F)(F)F)ccc2[nH]1,Active,0.02,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287257,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1-c1ccccc1)NO,Active,0.3785,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3961733,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Nc3ccc(F)cc3)CC2)nc1,Inactive,1.072,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3982663,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc(Cl)c1,Active,0.4,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3963124,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccccc1-c1ccccc1,Active,0.697,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL325676,O=C(CCCCCCS)Nc1ccccc1,Active,0.201,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL3098604,Cc1cccc(NC(=O)[C@H](CCCCCC(=O)NO)NC(=O)[C@H]2CCC(=O)N2)c1,Active,0.011,uM,Scientific Literature,CHEMBL3352629,Bioorg. Med. Chem. Lett.,2015
+CHEMBL3759808,O=C(/C=C/c1ccc2c(c1)C(=O)CC1(CCCN(Cc3ccccc3)CC1)O2)NO,Active,0.03,uM,Scientific Literature,CHEMBL3758162,Eur. J. Med. Chem.,2016
+CHEMBL3943359,Cc1nc(-c2nc(C(=O)NCCCCC(=O)NO)c(CC(C)C)s2)cs1,Active,0.224,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3655986,O=C(NO)c1cnc(NC2(Cc3ccccc3)CC2)nc1,Active,0.843,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3892427,CCON1CCC(Nc2ncc(C(=O)NO)cn2)(C(C)C)CC1,Inactive,3.781,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3827611,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)[C@H]1C[C@@H]2CC[C@H](C1)O2,Inactive,2.28,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3217995,C#Cc1cccc(Nc2ncnc3cc(NC(=O)c4ccc(C(=O)Nc5ccccc5N)nc4)ccc23)c1,Active,0.32,uM,Scientific Literature,CHEMBL3217617,MedChemComm,2012
+CHEMBL3953107,Cc1ccc(C(=O)Nc2cccc(/C=C/C(=O)Nc3ccc(F)cc3N)c2)cc1,Inactive,1.4,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3287252,CCc1sc(-c2nccs2)nc1C(=O)NCCCCC(=O)NO,Active,0.258,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3986003,Nc1ccccc1NC(=O)CCCCCNC(=O)c1nnc[nH]1,Inactive,1.589,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1630118,O=C(NO)c1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)s1,Active,0.56,uM,Scientific Literature,CHEMBL1629443,J. Med. Chem.,2010
+CHEMBL2385957,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(=O)CCC(=O)NO)CC2,Inactive,1.36,uM,Scientific Literature,CHEMBL2385041,Bioorg. Med. Chem.,2013
+CHEMBL3758870,O=C(CCCCCC(=O)N/N=C/c1ccc(-c2ccccn2)cc1)NO,Active,0.0014,uM,Scientific Literature,CHEMBL3758132,Bioorg. Med. Chem. Lett.,2016
+CHEMBL3601336,Cc1ccc(Nc2nccc3ccc(NC(=O)CCCCCCC(=O)NO)cc23)c(Cl)c1,Active,0.0212,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3287021,O=C(CCCCNC(=O)c1csc(-c2cscn2)n1)NO,Active,0.2315,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL3652235,O=C(NO)c1cnc(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)nc1,Inactive,1.852,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3948528,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(c3ccccc3)CC2)nc1,Inactive,1.785,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3979241,Nc1ccccc1NC(=O)CCCCNC(=O)c1ccno1,Inactive,21.42,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL470225,CCOP(=O)(CNCc1ccc(C(=O)Nc2cc(-c3cccs3)ccc2N)cc1)OCC,Inactive,12,uM,Scientific Literature,CHEMBL1153943,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3920640,COCc1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Inactive,1.475,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL559576,N=C(N)NCCC[C@@H]1NC(=O)CNC(=O)[C@H](CCCCCC(=O)Nc2ccccc2N)NC(=O)CNC1=O,Inactive,46.9,uM,Scientific Literature,CHEMBL1151874,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3655937,Cc1cccc(C)c1CNc1ncc(C(=O)NO)cn1,Inactive,1.568,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3335299,O=C(CCCCc1ccn(Cc2ccc(Nc3ccccc3)cc2)n1)NO,Active,0.013,uM,Scientific Literature,CHEMBL3352093,Eur. J. Med. Chem.,2014
+CHEMBL487143,CCCC(=O)CCCCC[C@H](NC(=O)C1CCN(C)CC1)c1ncc(-c2ccc3ccccc3c2)[nH]1,Active,0.027,uM,Scientific Literature,CHEMBL1152225,Bioorg. Med. Chem. Lett.,2008
+CHEMBL1093043,Cc1cccc(NC(=O)CCCCC(=O)NO)c1C,Inactive,1.75,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3828496,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)[C@@H]1CCCCO1,Inactive,5.95,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3933843,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccc2nccnc2c1,Active,0.841,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3903212,O=C(CCCCCNC(=O)c1nc(-c2nccs2)sc1C1CC1)NO,Active,0.037,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3969378,Nc1ccccc1NC(=O)C/C=C/CCNC(=O)c1ccc(F)cc1,Inactive,4.797,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3896406,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc(N2CCOCC2)c1,Active,0.279,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3957219,Nc1ccccc1NC(=O)CCCCCNC(=O)c1cccc(OC(F)(F)F)c1,Active,0.079,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4106624,CC(C)[C@@H](C(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(c2ccccc2)CC1)c1ccccc1,Active,0.084,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3981678,Cn1ccc2c(C(=O)NCCCCCC(=O)Nc3ccccc3N)cccc21,Active,0.085,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3769491,CC(C)[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@H]2CCCN2C(=O)C[C@@H](C(=O)NCCCC(=O)NO)NC1=O,Inactive,13.7,uM,Scientific Literature,CHEMBL3769398,J. Med. Chem.,2016
+CHEMBL3944941,O=C(NO)c1cnc(NC2(c3cc(F)cc(F)c3)CCCCC2)nc1,Inactive,6.2,uM,BindingDB Database,CHEMBL3886954,,2016
+CHEMBL14227,CCCC(=O)O,Inactive,9,uM,Scientific Literature,CHEMBL1671826,ACS Med. Chem. Lett.,2011
+CHEMBL3601332,O=C(CCCCCCC(=O)Nc1ccc2ccnc(Nc3cccc(Cl)c3F)c2c1)NO,Active,0.02162,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3918737,Nc1ccccc1NC(=O)CCCCCNC(=O)c1c[nH]c2c(Cl)cccc12,Active,0.035,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4063967,N=C(N)NCCC[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.22,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL3655915,CC(Nc1ncc(C(=O)NO)cn1)c1ccccc1,Active,0.0925,uM,BindingDB Database,CHEMBL3639071,,2013
+CHEMBL3827412,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)C1CCCOC1,Inactive,19.8,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL468513,CC(=O)CCCCC[C@H](NC(=O)C1CCN(C)CC1)c1ncc(-c2ccc3ccccc3c2)[nH]1,Active,0.017,uM,Scientific Literature,CHEMBL1152225,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3601343,CCCCn1ccc2ccc(NC(=O)CCCCCCC(=O)NO)cc2c1=O,Active,0.09203,uM,Scientific Literature,CHEMBL3600352,Bioorg. Med. Chem.,2015
+CHEMBL3971832,CC(C)Cc1sc(-c2nccs2)nc1C(=O)NCCCCNC(=O)CS,Inactive,2.063,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3953198,CC(C)/C=C/c1sc(-c2nccs2)nc1C(=O)NCCCNC(=O)CS,Active,0.384,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3935353,O=C(NO)c1cnc(NC2(c3ccccc3)CCN(C(=O)Cc3cc4ccccc4[nH]3)CC2)nc1,Active,0.042,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3967206,Nc1ccccc1NC(=O)CCCCCNC(=O)c1ccncc1,Inactive,1.404,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL2046614,O=C(NCCCN1CCc2nc(C(=O)NO)sc2C1)c1ccc(-c2ccccc2)s1,Inactive,5.09,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL3339013,O=C(CCCCCC(=O)Nc1cc2c(Nc3ccc(Cl)c(C(F)(F)F)c3)ncnc2s1)NO,Active,0.04826,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL3939677,Cc1ccc(C(=O)NCCOCCC(=O)Nc2ccccc2N)cc1,Inactive,4.451,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL1092032,Cc1ccc(NC(=O)CCCCC(=O)NO)c(C)c1,Inactive,1.1,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3828015,Nc1ccc(-c2ccc(F)cc2)cc1NC(=O)C1CCc2ccccc2O1,Inactive,6.26,uM,Scientific Literature,CHEMBL3826926,Bioorg. Med. Chem.,2016
+CHEMBL3895328,Nc1ccccc1NC(=O)CCCCNC(=O)c1ccc2ncsc2c1,Inactive,8.608,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3356921,CN1C(=O)CC[C@@H]1C(=O)N[C@@H](CCCCCS)C(=O)Nc1ccccc1,Active,0.049,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL2381524,O=C(/C=C/c1cccc(C(=O)NO)c1)Nc1ccccc1,Inactive,18,uM,Scientific Literature,CHEMBL2380312,J. Med. Chem.,2013
+CHEMBL3885011,COC(=O)Cc1c(C)n(Cc2ccc(-c3cn(CCCCCCCC(=O)NO)nn3)cc2)c2ccc(OC)cc12,Active,0.181,uM,Scientific Literature,CHEMBL3875218,Bioorg Med Chem,2017
+CHEMBL3664026,CN1CCN(c2ccc3cc(C(=O)Nc4ccc(F)cc4N)cnc3c2C2CC2)CC1,Active,0.068,uM,BindingDB Database,CHEMBL3639382,,2015
+CHEMBL3759562,O=C(NCCCCCCS)c1cc(-c2ccncc2)n[nH]1,Active,0.011,uM,Scientific Literature,CHEMBL3758091,Eur. J. Med. Chem.,2016
+CHEMBL473475,Nc1ccc(-c2cccc(F)c2)cc1NC(=O)c1ccc(CN2CCC3(CCCN3)CC2)cc1,Inactive,5.727,uM,Scientific Literature,CHEMBL1136848,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3770555,Cc1cnc(-c2nc(C(=O)NCCCCC(=O)C(F)(F)F)c(C3CC3)s2)s1,Active,0.02676,uM,Scientific Literature,CHEMBL3769309,Eur. J. Med. Chem.,2016
+CHEMBL3287258,O=C(CCCCNC(=O)c1nc(-c2nccs2)sc1-c1ccc(F)cc1)NO,Active,0.312,uM,Scientific Literature,CHEMBL3286308,ACS Med. Chem. Lett.,2014
+CHEMBL96051,O=C(CCCCCN1C(=O)c2cccc3cccc(c23)C1=O)NO,Active,0.1,uM,Scientific Literature,CHEMBL1255383,Nat. Chem. Biol.,2010
+CHEMBL3356930,O=C(CCCCCCS)NC1CCCC1,Active,0.897,uM,Scientific Literature,CHEMBL3352570,J. Med. Chem.,2014
+CHEMBL2046623,CC(C)N(C(=O)/C=C/c1ccccc1)c1cccc(CN2CCc3nc(C(=O)NO)sc3C2)c1,Inactive,2.19,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL519491,O=C(CCCCCCC(=O)Nc1ccc(-c2cn(-c3ccccc3)nn2)cc1)NO,Active,0.008,uM,Scientific Literature,CHEMBL1150413,J. Med. Chem.,2008
+CHEMBL3955625,Cc1ccc(C(=O)NCCCCCC(=O)Nc2ccncc2N)cc1,Inactive,7.934,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL4082254,C[C@@H](OCc1ccccc1)[C@@H]1N=C(c2ccccc2)c2ccccc2N(CCCCC(=O)NO)C1=O,Active,0.91,uM,Scientific Literature,CHEMBL3997794,Eur J Med Chem,2017
+CHEMBL2385958,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(=O)CCCC(=O)NO)CC2,Inactive,8.36,uM,Scientific Literature,CHEMBL2385041,Bioorg. Med. Chem.,2013
+CHEMBL1165164,C[C@H](CCCCNS(=O)(=O)c1ccccc1)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C,Inactive,508,uM,Scientific Literature,CHEMBL1165922,Bioorg. Med. Chem.,2010
+CHEMBL1093358,Cc1cccc(C)c1NC(=O)CCCCC(=O)NO,Inactive,4.989,uM,Scientific Literature,CHEMBL1156269,J. Med. Chem.,2010
+CHEMBL3622727,C/C=C1\NC(=O)c2csc(n2)[C@@H](C(C)C)NC(=O)C[C@@H](/C=C/CCS)OC(=O)[C@H](C(C)C)NC1=O,Active,0.00977,uM,Scientific Literature,CHEMBL3621100,J. Med. Chem.,2015
+CHEMBL2046609,COc1ccc(/C=C/C(=O)Nc2ccc(C(=O)N3CCc4nc(C(=O)NO)sc4C3)cc2)cc1,Inactive,16.07,uM,Scientific Literature,CHEMBL2046379,Bioorg. Med. Chem. Lett.,2012
+CHEMBL454672,O=C(c1ccc(-c2nnc(-c3cccs3)o2)s1)C(F)(F)F,Active,0.5,uM,Scientific Literature,CHEMBL1152136,Bioorg. Med. Chem. Lett.,2008
+CHEMBL3339022,O=C(CCCCCCC(=O)Nc1cc2c(Nc3ccccc3)ncnc2s1)NO,Active,0.00347,uM,Scientific Literature,CHEMBL3351302,Bioorg. Med. Chem.,2014
+CHEMBL512644,O=C(CCCCCCC(=O)Nc1ccc(-c2ccccc2)cc1)NO,Active,0.007,uM,Scientific Literature,CHEMBL1136917,Bioorg. Med. Chem. Lett.,2009
+CHEMBL3921382,Cn1c(C(=O)NCCCCCC(=O)Nc2ccccc2N)cc2ccccc21,Active,0.113,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3987199,Nc1ccccc1NC(=O)CCCCCNC(=O)c1c[nH]c2ccc(Cl)cc12,Active,0.048,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3930328,O=C(CCCCNC(=O)c1nc(-c2ncc(-c3ccccc3)s2)sc1C1CC1)NO,Active,0.011,uM,BindingDB Database,CHEMBL3886429,,2015
+CHEMBL3971229,Nc1ccc(-c2cccs2)cc1NC(=O)c1cnc2c(C3CC3)c(N3CCNCC3)ccc2c1,Active,0.099,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL251011,COc1ccc(COC(CCCCCC(=O)NO)C(=O)Nc2ccccc2)cc1,Active,0.131,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL2063396,CCC[C@@H]1NC(=O)[C@H](C)NC(=O)C[C@H](CC(C)C)NC(=O)[C@H](Cc2cn(CN(C)C)c3ccccc23)NC1=O,Active,0.8,uM,Scientific Literature,CHEMBL4052703,Bioorg Med Chem Lett,2017
+CHEMBL3670678,O=C(NO)c1ccc(CNC(=O)c2[nH]c(-c3ccccc3)cc2-c2ccc(Cl)c(Cl)c2)cc1,Active,0.806,uM,BindingDB Database,CHEMBL3638813,,2014
+CHEMBL3950790,CCC(O)(CC)COc1ccc(C(CC)(CC)c2ccc(OCC(=O)NO)c(C)c2)cc1C,Inactive,29.9,uM,BindingDB Database,CHEMBL3886894,,2016
+CHEMBL1631911,O=C(CCCCCC1OCCCCCCOc2ccccc2NC1=O)NO,Active,0.176,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
+CHEMBL4105617,O=C(NO)c1cccc(-c2csc(CSc3ccccc3)n2)c1,Inactive,12,uM,Scientific Literature,CHEMBL4033665,Eur J Med Chem,2017
+CHEMBL3945670,CN(CCCCCC(=O)Nc1ccc(F)cc1N)C(=O)c1ccc(F)cc1,Inactive,9.322,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3916917,CC(=O)N1CCC(Nc2ncc(C(=O)NO)cn2)(C(C)C)CC1,Inactive,8.18,uM,BindingDB Database,CHEMBL3886590,,2016
+CHEMBL3311465,O=C(CCCCCCC(=O)Nc1ccc2c(c1)CCC(=O)N2)NO,Active,0.091,uM,Scientific Literature,CHEMBL3351757,Bioorg. Med. Chem.,2014
+CHEMBL3946644,CN(C)c1ccccc1C(=O)NCCCCCC(=O)Nc1ccccc1N,Active,0.387,uM,BindingDB Database,CHEMBL3886535,,2016
+CHEMBL3927842,Nc1ccc(-c2cccs2)cc1NC(=O)c1ccc2nc(N3CCNCC3)ccc2c1,Active,0.114,uM,BindingDB Database,CHEMBL3886267,,2015
+CHEMBL1631915,COc1cc2cc(c1)COc1ccccc1NC(=O)[C@@H](CCCCCC(=O)NO)OC/C=C\2,Active,0.089,uM,Scientific Literature,CHEMBL1629537,J. Med. Chem.,2010
