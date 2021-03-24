@@ -74,4 +74,4 @@ References
 -----------------------------------
 If you find HDAC3i-Finder useful, please cite: 
 
-Li, S., Ding Y., Chen, M., Chen Y., Kirchmair J., Zhu Z., Wu, S., Xia, J.*, HDAC3i-Finder: A Machine Learning-based Computational Tool to Screen for HDAC3 Inhibitors. Mol. Inf.,2021, 40(3):e2000105. DOI: 10.1002/minf.202000105. 
+Li, S., Ding Y., Chen, M., Chen Y., Kirchmair J., Zhu Z., Wu, S., Xia, J.*, HDAC3i-Finder: A Machine Learning-based Computational Tool to Screen for HDAC3 Inhibitors. Mol. Inf.,2021, 40(3):e2000105. https://onlinelibrary.wiley.com/doi/10.1002/minf.202000105 
